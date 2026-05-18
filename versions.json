@@ -2,12 +2,6 @@
     "kyogo_dock": {
         "version": "0.1.1",
         "notes": "v0.1.1 Test - Fixed database initialization freeze, optimized phpMyAdmin automated routing, added System Tray minification, and implemented rotative logging.",
-        "pub_date": "2026-05-17T21:30:00Z",
-        "platforms": {
-            "windows-x86_64": {
-                "signature": "",
-                "url": ""
-            }
-        }
+        "pub_date": "2026-05-17T21:30:00Z"
     }
 }
