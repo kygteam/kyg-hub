@@ -65,6 +65,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:14:28Z"
   },
+  "6j4z5j": {
+    "code": "6j4z5j",
+    "description": "RETORIKA ROLEPLAY INDONESIA",
+    "gamebuild": "3095",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/6j4z5j/-1320106692.png",
+    "id": "6j4z5j",
+    "ip": "104.234.180.180:30110",
+    "locale": "id-ID",
+    "max_players": 125,
+    "name": "RETORIKA ROLEPLAY INDONESIA",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/retorika/128/5380494_2.png",
+      "id": 14409131,
+      "name": "Retorika",
+      "profile": "https://forum.cfx.re/u/Retorika"
+    },
+    "package": "au",
+    "poolsizes": "",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:22:53Z"
+  },
   "7y66bb": {
     "code": "7y66bb",
     "description": "ADIKBERADIK RP",
