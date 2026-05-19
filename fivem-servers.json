@@ -175,6 +175,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:19:40Z"
   },
+  "eql83a": {
+    "code": "eql83a",
+    "description": "GAS JOIN KITA HALU BARENG",
+    "gamebuild": "2944",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/eql83a/-1133439874.png",
+    "id": "eql83a",
+    "ip": "104.234.180.112:30120",
+    "locale": "id-ID",
+    "max_players": 500,
+    "name": "LP LAST PARADISE ROLEPLAY INDONESIA",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/adrian_pl111/128/5496743_2.png",
+      "id": 17069063,
+      "name": "Adrian_pl111",
+      "profile": "https://forum.cfx.re/u/Adrian_pl111"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"TxdStore\":26000}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:22:11Z"
+  },
   "gad5d7z": {
     "code": "gad5d7z",
     "description": "MENGHARGAI & MENGHORMATI",
