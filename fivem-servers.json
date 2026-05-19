@@ -241,6 +241,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:23:18Z"
   },
+  "e6e6lmp": {
+    "code": "e6e6lmp",
+    "description": "WILUJEUNG SUMPING DI SUNDAPRIDE ROLEPLAY | REALESE H+1",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/e6e6lmp/646862296.png",
+    "id": "e6e6lmp",
+    "ip": "5.223.61.29:30120",
+    "locale": "id_ID",
+    "max_players": 128,
+    "name": "SUNDAPRIDE",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/sundapriderp/128/4968400_2.png",
+      "id": 18837357,
+      "name": "SUNDAPRIDERP",
+      "profile": "https://forum.cfx.re/u/SUNDAPRIDERP"
+    },
+    "package": "au",
+    "poolsizes": "",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:40:32Z"
+  },
   "ele3bm": {
     "code": "ele3bm",
     "description": "Happiness never ends!",
