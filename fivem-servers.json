@@ -395,6 +395,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:21:44Z"
   },
+  "z5oaqp": {
+    "code": "z5oaqp",
+    "description": "GOOD VIBES GOOD ROLEPLAY",
+    "gamebuild": "2944",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/z5oaqp/-1154757285.png",
+    "id": "z5oaqp",
+    "ip": "15.235.133.213:30120",
+    "locale": "id-ID",
+    "max_players": 210,
+    "name": "SENJAKALA ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/maaunnstorexayamod/128/6160635_2.png",
+      "id": 16359970,
+      "name": "MaaunnStorexAyaMod",
+      "profile": "https://forum.cfx.re/u/MaaunnStorexAyaMod"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:22:35Z"
+  },
   "zrvmg4": {
     "code": "zrvmg4",
     "description": "iMe Roleplay",
