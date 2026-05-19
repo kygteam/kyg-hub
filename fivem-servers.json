@@ -417,6 +417,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:19:30Z"
   },
+  "pbp7ga": {
+    "code": "pbp7ga",
+    "description": "Race Of The City, Racing With Roleplay, Pursuit Is Number 1, Build Your Dreams Car and Become The King Of Racing",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/pbp7ga/-2059216944.png",
+    "id": "pbp7ga",
+    "ip": "15.235.128.191:30120",
+    "locale": "id-ID",
+    "max_players": 128,
+    "name": "Asphalt Street",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/asphaltstreet/128/6176788_2.png",
+      "id": 9569724,
+      "name": "AsphaltStreet",
+      "profile": "https://forum.cfx.re/u/AsphaltStreet"
+    },
+    "package": "au",
+    "poolsizes": "{\"AnimStore\":20480}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:40:49Z"
+  },
   "plj9dy": {
     "code": "plj9dy",
     "description": "Let's build your story in origami city",
