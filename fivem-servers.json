@@ -1,4 +1,26 @@
 {
+  "237yxy": {
+    "code": "237yxy",
+    "description": "Respect & Good Attitude",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/237yxy/-824144304.png",
+    "id": "237yxy",
+    "ip": "kota.indopride.id:30120",
+    "locale": "id-ID",
+    "max_players": 2048,
+    "name": "[KOTA] #INDOPRIDE ROLEPLAY INDONESIA | RESPECT & GOOD ATTITUDE | JOIN @ ind",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/indopride/128/3052940_2.png",
+      "id": 413901,
+      "name": "INDOPRIDE",
+      "profile": "https://forum.cfx.re/u/INDOPRIDE"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"netGameEvent\":400}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:19:08Z"
+  },
   "55kd96": {
     "code": "55kd96",
     "description": "Satu Kampoeng, Sejuta Kisah",
