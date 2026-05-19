@@ -87,6 +87,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:14:12Z"
   },
+  "mez5p7": {
+    "code": "mez5p7",
+    "description": "let's Make a good community",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/mez5p7/1163679694.png",
+    "id": "mez5p7",
+    "ip": "host.kotabaruroleplay.com",
+    "locale": "id-ID",
+    "max_players": 1068,
+    "name": "KOTABARU ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/kotabaruroleplay/128/4429463_2.png",
+      "id": 5197007,
+      "name": "kotabaruroleplay",
+      "profile": "https://forum.cfx.re/u/kotabaruroleplay"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:19:30Z"
+  },
   "plj9dy": {
     "code": "plj9dy",
     "description": "Let's build your story in origami city",
