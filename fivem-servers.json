@@ -43,6 +43,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:14:28Z"
   },
+  "7y66bb": {
+    "code": "7y66bb",
+    "description": "ADIKBERADIK RP",
+    "gamebuild": "3095",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/7y66bb/-248060622.png",
+    "id": "7y66bb",
+    "ip": "31.58.143.4:30120",
+    "locale": "en-MY",
+    "max_players": 2048,
+    "name": "ABRP",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/abrpteam/128/3997135_2.png",
+      "id": 2890939,
+      "name": "ABRPTEAM",
+      "profile": "https://forum.cfx.re/u/ABRPTEAM"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "pure_level": "1",
+    "scraped_at": "2026-05-19T16:21:27Z"
+  },
   "98yrzem": {
     "code": "98yrzem",
     "description": "MEDAN TEMPUR VERSI ARENA",
