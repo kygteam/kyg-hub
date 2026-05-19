@@ -65,6 +65,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:15:04Z"
   },
+  "ele3bm": {
+    "code": "ele3bm",
+    "description": "Happiness never ends!",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/ele3bm/-171954672.png",
+    "id": "ele3bm",
+    "ip": "49.128.187.110:30120",
+    "locale": "id-ID",
+    "max_players": 600,
+    "name": "NUSA V ROLEPLAY INDONESIA",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/littleotto/128/5242451_2.png",
+      "id": 16595063,
+      "name": "LittleOtto",
+      "profile": "https://forum.cfx.re/u/LittleOtto"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"Building\":500,\"CMoveObject\":600,\"TxdStore\":6000}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:19:40Z"
+  },
   "gad5d7z": {
     "code": "gad5d7z",
     "description": "MENGHARGAI & MENGHORMATI",
