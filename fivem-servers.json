@@ -240,5 +240,27 @@
     "poolsizes": "{\"AttachmentExtension\":430,\"CMoveObject\":75,\"FragmentStore\":14000,\"LightEntity\":1000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"fragInstGta\":2000,\"netGameEvent\":400}",
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:00:32Z"
+  },
+  "zrvmg4": {
+    "code": "zrvmg4",
+    "description": "iMe Roleplay",
+    "gamebuild": "2612",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/zrvmg4/-1132135871.png",
+    "id": "zrvmg4",
+    "ip": "imeroleplay-cdn.cbtp.co.id",
+    "locale": "id-ID",
+    "max_players": 2048,
+    "name": "iMe RP",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/legacyindonesia/128/3605660_2.png",
+      "id": 11942132,
+      "name": "LegacyIndonesia",
+      "profile": "https://forum.cfx.re/u/LegacyIndonesia"
+    },
+    "package": "pt",
+    "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:20:09Z"
   }
 }
