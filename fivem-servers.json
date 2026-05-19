@@ -307,6 +307,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:00:32Z"
   },
+  "xj9l5r": {
+    "code": "xj9l5r",
+    "description": "Roleplay Should Be Fun",
+    "gamebuild": "2944",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/xj9l5r/-563137854.png",
+    "id": "xj9l5r",
+    "ip": "31.58.143.2:30120",
+    "locale": "id-ID",
+    "max_players": 888,
+    "name": "MERCY ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/mercyroleplayid/128/5899940_2.png",
+      "id": 17836835,
+      "name": "mercyroleplayid",
+      "profile": "https://forum.cfx.re/u/mercyroleplayid"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:21:44Z"
+  },
   "zrvmg4": {
     "code": "zrvmg4",
     "description": "iMe Roleplay",
