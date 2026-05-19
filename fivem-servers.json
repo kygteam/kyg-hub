@@ -4,7 +4,6 @@
     "description": "Respect & Good Attitude",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/237yxy/-824144304.png",
-    "id": "237yxy",
     "ip": "kota.indopride.id:30120",
     "locale": "id-ID",
     "max_players": 2048,
@@ -19,14 +18,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"netGameEvent\":400}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:19:08Z"
+    "scraped_at": "2026-05-19T17:34:42Z"
   },
   "3e3gdb": {
     "code": "3e3gdb",
     "description": "Dream Big Live Twice",
     "gamebuild": "2612",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/3e3gdb/142087119.png",
-    "id": "3e3gdb",
     "ip": "49.128.187.46:30120",
     "locale": "id-ID",
     "max_players": 1000,
@@ -41,14 +39,13 @@
     "package": "pt",
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:21:53Z"
+    "scraped_at": "2026-05-19T17:34:45Z"
   },
   "55kd96": {
     "code": "55kd96",
     "description": "Satu Kampoeng, Sejuta Kisah",
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/55kd96/540036569.png",
-    "id": "55kd96",
     "ip": "play.kampoeng.vhicloud.com",
     "locale": "id-ID",
     "max_players": 280,
@@ -63,14 +60,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":12000,\"EntityDescPool\":10000,\"FragmentStore\":10000,\"TxdStore\":15000}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:14:28Z"
+    "scraped_at": "2026-05-19T17:34:47Z"
   },
   "6j4z5j": {
     "code": "6j4z5j",
     "description": "RETORIKA ROLEPLAY INDONESIA",
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/6j4z5j/-1320106692.png",
-    "id": "6j4z5j",
     "ip": "104.234.180.180:30110",
     "locale": "id-ID",
     "max_players": 125,
@@ -85,14 +81,13 @@
     "package": "au",
     "poolsizes": "",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:22:53Z"
+    "scraped_at": "2026-05-19T17:34:49Z"
   },
   "7y66bb": {
     "code": "7y66bb",
     "description": "ADIKBERADIK RP",
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/7y66bb/-248060622.png",
-    "id": "7y66bb",
     "ip": "31.58.143.4:30120",
     "locale": "en-MY",
     "max_players": 2048,
@@ -107,14 +102,13 @@
     "package": "pt",
     "poolsizes": "",
     "pure_level": "1",
-    "scraped_at": "2026-05-19T16:21:27Z"
+    "scraped_at": "2026-05-19T17:34:51Z"
   },
   "8r5lp3": {
     "code": "8r5lp3",
     "description": "Execute your own story—this is your prime time. Move with purpose, rise in motion, and take on the world with confidence",
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/8r5lp3/-38252455.png",
-    "id": "8r5lp3",
     "ip": "151.247.74.75:30120",
     "locale": "id-ID",
     "max_players": 128,
@@ -129,14 +123,13 @@
     "package": "au",
     "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:22:26Z"
+    "scraped_at": "2026-05-19T17:34:53Z"
   },
   "98yrzem": {
     "code": "98yrzem",
     "description": "MEDAN TEMPUR VERSI ARENA",
     "gamebuild": "3788",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/98yrzem/1064580742.png",
-    "id": "98yrzem",
     "ip": "31.58.143.187:30120",
     "locale": "id-ID",
     "max_players": 600,
@@ -151,14 +144,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"Building\":500,\"CDoorSyncData\":20,\"CMoveObject\":600,\"CNetObjDoor\":20,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":30000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"fwDynamicArchetypeComponent\":30000,\"netGameEvent\":400}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:19:46Z"
+    "scraped_at": "2026-05-19T17:34:55Z"
   },
   "amavek": {
     "code": "amavek",
     "description": "IC serius OOC misterius, bisa BEDA in kan ya",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/amavek/-1359723291.png",
-    "id": "amavek",
     "ip": "151.243.226.107:30120",
     "locale": "en-ID",
     "max_players": 200,
@@ -173,14 +165,13 @@
     "package": "pt",
     "poolsizes": "",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:39:48Z"
+    "scraped_at": "2026-05-19T17:34:57Z"
   },
   "bdx4lql": {
     "code": "bdx4lql",
     "description": "Rumah Kita Bersama",
     "gamebuild": "2612",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/bdx4lql/-362622762.png",
-    "id": "bdx4lql",
     "ip": "49.128.187.98:30120",
     "locale": "id-ID",
     "max_players": 828,
@@ -195,14 +186,13 @@
     "package": "pt",
     "poolsizes": "",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:15:04Z"
+    "scraped_at": "2026-05-19T17:34:59Z"
   },
   "bjyd8b": {
     "code": "bjyd8b",
     "description": "Tempat Dimana Imajinasi Jadi Nyata.",
     "gamebuild": "2802",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/bjyd8b/92162707.png",
-    "id": "bjyd8b",
     "ip": "49.128.187.178:30120",
     "locale": "id-ID",
     "max_players": 889,
@@ -217,14 +207,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:21:12Z"
+    "scraped_at": "2026-05-19T17:35:01Z"
   },
   "da5dzj": {
     "code": "da5dzj",
     "description": "Make Your Own Story.",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/da5dzj/-517661413.png",
-    "id": "da5dzj",
     "ip": "103.42.116.171:30120",
     "locale": "id-ID",
     "max_players": 500,
@@ -239,14 +228,13 @@
     "package": "pt",
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:23:18Z"
+    "scraped_at": "2026-05-19T17:35:03Z"
   },
   "e6e6lmp": {
     "code": "e6e6lmp",
     "description": "WILUJEUNG SUMPING DI SUNDAPRIDE ROLEPLAY | REALESE H+1",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/e6e6lmp/646862296.png",
-    "id": "e6e6lmp",
     "ip": "5.223.61.29:30120",
     "locale": "id_ID",
     "max_players": 128,
@@ -261,14 +249,13 @@
     "package": "au",
     "poolsizes": "",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:40:32Z"
+    "scraped_at": "2026-05-19T17:35:05Z"
   },
   "ele3bm": {
     "code": "ele3bm",
     "description": "Happiness never ends!",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/ele3bm/-171954672.png",
-    "id": "ele3bm",
     "ip": "49.128.187.110:30120",
     "locale": "id-ID",
     "max_players": 600,
@@ -283,14 +270,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"Building\":500,\"CMoveObject\":600,\"TxdStore\":6000}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:19:40Z"
+    "scraped_at": "2026-05-19T17:35:07Z"
   },
   "eql83a": {
     "code": "eql83a",
     "description": "GAS JOIN KITA HALU BARENG",
     "gamebuild": "2944",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/eql83a/-1133439874.png",
-    "id": "eql83a",
     "ip": "104.234.180.112:30120",
     "locale": "id-ID",
     "max_players": 500,
@@ -305,14 +291,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"TxdStore\":26000}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:22:11Z"
+    "scraped_at": "2026-05-19T17:35:09Z"
   },
   "gad5d7z": {
     "code": "gad5d7z",
     "description": "MENGHARGAI & MENGHORMATI",
     "gamebuild": "3788",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/gad5d7z/1411448061.png",
-    "id": "gad5d7z",
     "ip": "104.234.180.251:30120",
     "locale": "id-ID",
     "max_players": 1000,
@@ -327,14 +312,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"Building\":500,\"CDoorSyncData\":20,\"CMoveObject\":600,\"CNetObjDoor\":20,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":30000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"fwDynamicArchetypeComponent\":30000,\"netGameEvent\":400}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:14:12Z"
+    "scraped_at": "2026-05-19T17:35:11Z"
   },
   "jygd5m": {
     "code": "jygd5m",
     "description": "From the ashes of Ground Zero, a new world rises. Will you rebuild civilization or rot with the rest? Your story of survival starts here.",
     "gamebuild": "2944",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/jygd5m/0.png",
-    "id": "jygd5m",
     "ip": "210.247.249.98:30120",
     "locale": "en-ID",
     "max_players": 501,
@@ -349,14 +333,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"netGameEvent\":400}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:23:50Z"
+    "scraped_at": "2026-05-19T17:35:13Z"
   },
   "kblaja": {
     "code": "kblaja",
     "description": "Modern Malaysia Roleplay • Custom Cars • Custom Jobs • Realistic Lifestyle",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/kblaja/1784929334.png",
-    "id": "kblaja",
     "ip": "31.58.143.16:30120",
     "locale": "en-MY",
     "max_players": 500,
@@ -371,14 +354,13 @@
     "package": "pt",
     "poolsizes": "",
     "pure_level": "1",
-    "scraped_at": "2026-05-19T16:48:49Z"
+    "scraped_at": "2026-05-19T17:35:15Z"
   },
   "kr7k7d": {
     "code": "kr7k7d",
     "description": "Your Roleplay Home with a New Experience 2.0",
     "gamebuild": "2612",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/kr7k7d/577531329.png",
-    "id": "kr7k7d",
     "ip": "210.247.249.214:30120",
     "locale": "id-ID",
     "max_players": 1000,
@@ -393,14 +375,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"fragInstGta\":2000,\"netGameEvent\":400}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:23:27Z"
+    "scraped_at": "2026-05-19T17:35:17Z"
   },
   "lqzmjv": {
     "code": "lqzmjv",
     "description": "Melee Training , PVP , Zombie",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/lqzmjv/-544620625.png",
-    "id": "lqzmjv",
     "ip": "104.234.180.118:30120",
     "locale": "en-MY",
     "max_players": 300,
@@ -415,14 +396,13 @@
     "package": "pt",
     "poolsizes": "",
     "pure_level": "1",
-    "scraped_at": "2026-05-19T16:20:28Z"
+    "scraped_at": "2026-05-19T17:35:20Z"
   },
   "mez5p7": {
     "code": "mez5p7",
     "description": "let's Make a good community",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/mez5p7/1163679694.png",
-    "id": "mez5p7",
     "ip": "host.kotabaruroleplay.com",
     "locale": "id-ID",
     "max_players": 1068,
@@ -437,14 +417,13 @@
     "package": "pt",
     "poolsizes": "",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:19:30Z"
+    "scraped_at": "2026-05-19T17:35:22Z"
   },
   "o47de7": {
     "code": "o47de7",
     "description": "Server RP kultur Indonesia, job lengkap, fraksi, Medis, Police, Mechanic, Pedagang",
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/o47de7/1106429007.png",
-    "id": "o47de7",
     "ip": "103.31.205.179:30120",
     "locale": "id-ID",
     "max_players": 100,
@@ -459,14 +438,13 @@
     "package": "au",
     "poolsizes": "{\"AttachmentExtension\":430,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:42:36Z"
+    "scraped_at": "2026-05-19T17:35:24Z"
   },
   "pbp7ga": {
     "code": "pbp7ga",
     "description": "Race Of The City, Racing With Roleplay, Pursuit Is Number 1, Build Your Dreams Car and Become The King Of Racing",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/pbp7ga/-2059216944.png",
-    "id": "pbp7ga",
     "ip": "15.235.128.191:30120",
     "locale": "id-ID",
     "max_players": 128,
@@ -481,14 +459,13 @@
     "package": "au",
     "poolsizes": "{\"AnimStore\":20480}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:40:49Z"
+    "scraped_at": "2026-05-19T17:35:26Z"
   },
   "plj9dy": {
     "code": "plj9dy",
     "description": "Let's build your story in origami city",
     "gamebuild": "2944",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/plj9dy/1740105241.png",
-    "id": "plj9dy",
     "ip": "204.10.193.11:30120",
     "locale": "id-ID",
     "max_players": 750,
@@ -503,14 +480,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"fragInstGta\":2000,\"netGameEvent\":400}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:13:56Z"
+    "scraped_at": "2026-05-19T17:35:28Z"
   },
   "qqa4y56": {
     "code": "qqa4y56",
     "description": "FEEL THE #MOXIEXPERIENCE",
     "gamebuild": "2944",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/qqa4y56/-2144017187.png",
-    "id": "qqa4y56",
     "ip": "49.128.187.74:30120",
     "locale": "EN-ID",
     "max_players": 888,
@@ -525,14 +501,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:26:59Z"
+    "scraped_at": "2026-05-19T17:35:30Z"
   },
   "r35px8": {
     "code": "r35px8",
     "description": "#5TILLKOTAKITA",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/r35px8/0.png",
-    "id": "r35px8",
     "ip": "31.58.143.101:30120",
     "locale": "id-ID",
     "max_players": 2048,
@@ -547,14 +522,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"netGameEvent\":400}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:19:54Z"
+    "scraped_at": "2026-05-19T17:35:32Z"
   },
   "roek67": {
     "code": "roek67",
     "description": "Project Reborn",
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/roek67/1203606197.png",
-    "id": "roek67",
     "ip": "49.128.187.50:30120",
     "locale": "id-ID",
     "max_players": 1024,
@@ -569,14 +543,13 @@
     "package": "pt",
     "poolsizes": "{\"AttachmentExtension\":430,\"CMoveObject\":600,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"netGameEvent\":400}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:19:17Z"
+    "scraped_at": "2026-05-19T17:35:34Z"
   },
   "vgaqm5": {
     "code": "vgaqm5",
     "description": "Prime Bersama Garuda",
     "gamebuild": "2612",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/vgaqm5/928523166.png",
-    "id": "vgaqm5",
     "ip": "49.128.187.58:30120",
     "locale": "id-ID",
     "max_players": 1000,
@@ -591,14 +564,13 @@
     "package": "pt",
     "poolsizes": "{\"AttachmentExtension\":430,\"CMoveObject\":75,\"FragmentStore\":14000,\"LightEntity\":1000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"fragInstGta\":2000,\"netGameEvent\":400}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:00:32Z"
+    "scraped_at": "2026-05-19T17:35:36Z"
   },
   "xj9l5r": {
     "code": "xj9l5r",
     "description": "Roleplay Should Be Fun",
     "gamebuild": "2944",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/xj9l5r/-563137854.png",
-    "id": "xj9l5r",
     "ip": "31.58.143.2:30120",
     "locale": "id-ID",
     "max_players": 888,
@@ -613,14 +585,13 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:21:44Z"
+    "scraped_at": "2026-05-19T17:35:38Z"
   },
   "y9vvlo5": {
     "code": "y9vvlo5",
     "description": "Kami Berdiri Digempuran Server Artis",
     "gamebuild": "2699",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/y9vvlo5/254729292.png",
-    "id": "y9vvlo5",
     "ip": "38.76.247.188:30000",
     "locale": "id-ID",
     "max_players": 123,
@@ -635,14 +606,13 @@
     "package": "au",
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"netGameEvent\":400}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:41:02Z"
+    "scraped_at": "2026-05-19T17:35:40Z"
   },
   "z5oaqp": {
     "code": "z5oaqp",
     "description": "GOOD VIBES GOOD ROLEPLAY",
     "gamebuild": "2944",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/z5oaqp/-1154757285.png",
-    "id": "z5oaqp",
     "ip": "15.235.133.213:30120",
     "locale": "id-ID",
     "max_players": 210,
@@ -657,14 +627,13 @@
     "package": "pt",
     "poolsizes": "",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:22:35Z"
+    "scraped_at": "2026-05-19T17:35:42Z"
   },
   "zrvmg4": {
     "code": "zrvmg4",
     "description": "iMe Roleplay",
     "gamebuild": "2612",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/zrvmg4/-1132135871.png",
-    "id": "zrvmg4",
     "ip": "imeroleplay-cdn.cbtp.co.id",
     "locale": "id-ID",
     "max_players": 2048,
@@ -679,14 +648,13 @@
     "package": "pt",
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:20:09Z"
+    "scraped_at": "2026-05-19T17:35:44Z"
   },
   "zxmea5": {
     "code": "zxmea5",
     "description": "SATU CERITA KITA",
     "gamebuild": "2802",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/zxmea5/428373631.png",
-    "id": "zxmea5",
     "ip": "49.128.187.42:30120",
     "locale": "id-ID",
     "max_players": 666,
@@ -701,6 +669,6 @@
     "package": "pt",
     "poolsizes": "",
     "pure_level": "0",
-    "scraped_at": "2026-05-19T16:20:35Z"
+    "scraped_at": "2026-05-19T17:35:46Z"
   }
 }
