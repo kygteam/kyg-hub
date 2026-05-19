@@ -571,6 +571,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:21:44Z"
   },
+  "y9vvlo5": {
+    "code": "y9vvlo5",
+    "description": "Kami Berdiri Digempuran Server Artis",
+    "gamebuild": "2699",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/y9vvlo5/254729292.png",
+    "id": "y9vvlo5",
+    "ip": "38.76.247.188:30000",
+    "locale": "id-ID",
+    "max_players": 123,
+    "name": "Cemara Roleplay",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/bolen.id/128/5849334_2.png",
+      "id": 15653424,
+      "name": "Bolen.ID",
+      "profile": "https://forum.cfx.re/u/Bolen.ID"
+    },
+    "package": "au",
+    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"netGameEvent\":400}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:41:02Z"
+  },
   "z5oaqp": {
     "code": "z5oaqp",
     "description": "GOOD VIBES GOOD ROLEPLAY",
