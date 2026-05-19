@@ -21,6 +21,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:14:28Z"
   },
+  "bdx4lql": {
+    "code": "bdx4lql",
+    "description": "Rumah Kita Bersama",
+    "gamebuild": "2612",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/bdx4lql/-362622762.png",
+    "id": "bdx4lql",
+    "ip": "49.128.187.98:30120",
+    "locale": "id-ID",
+    "max_players": 828,
+    "name": "Rumah Kita Roleplay",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/rumah_kita/128/4584679_2.png",
+      "id": 18864287,
+      "name": "Rumah_kita",
+      "profile": "https://forum.cfx.re/u/Rumah_kita"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:15:04Z"
+  },
   "gad5d7z": {
     "code": "gad5d7z",
     "description": "MENGHARGAI & MENGHORMATI",
