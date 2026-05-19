@@ -197,6 +197,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:21:12Z"
   },
+  "da5dzj": {
+    "code": "da5dzj",
+    "description": "Make Your Own Story.",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/da5dzj/-517661413.png",
+    "id": "da5dzj",
+    "ip": "103.42.116.171:30120",
+    "locale": "id-ID",
+    "max_players": 500,
+    "name": "Solaris Roleplay",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/solaris_roleplay99/128/4966281_2.png",
+      "id": 18490734,
+      "name": "Solaris_Roleplay99",
+      "profile": "https://forum.cfx.re/u/Solaris_Roleplay99"
+    },
+    "package": "pt",
+    "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:23:18Z"
+  },
   "ele3bm": {
     "code": "ele3bm",
     "description": "Happiness never ends!",
