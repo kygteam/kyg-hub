@@ -284,5 +284,27 @@
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:20:09Z"
+  },
+  "zxmea5": {
+    "code": "zxmea5",
+    "description": "SATU CERITA KITA",
+    "gamebuild": "2802",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/zxmea5/428373631.png",
+    "id": "zxmea5",
+    "ip": "49.128.187.42:30120",
+    "locale": "id-ID",
+    "max_players": 666,
+    "name": "CERITA KITA ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/cerita_kita/128/5610711_2.png",
+      "id": 12057603,
+      "name": "CERITA_KITA",
+      "profile": "https://forum.cfx.re/u/CERITA_KITA"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:20:35Z"
   }
 }
