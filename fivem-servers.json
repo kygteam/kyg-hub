@@ -175,6 +175,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:13:56Z"
   },
+  "r35px8": {
+    "code": "r35px8",
+    "description": "#5TILLKOTAKITA",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/r35px8/0.png",
+    "id": "r35px8",
+    "ip": "31.58.143.101:30120",
+    "locale": "id-ID",
+    "max_players": 2048,
+    "name": "KOTAKITA ROLEPLAY INDONESIA",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/kotakitarp/128/1755492_2.png",
+      "id": 1777855,
+      "name": "KOTAKITARP",
+      "profile": "https://forum.cfx.re/u/KOTAKITARP"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"netGameEvent\":400}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:19:54Z"
+  },
   "roek67": {
     "code": "roek67",
     "description": "Project Reborn",
