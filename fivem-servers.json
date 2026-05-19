@@ -1,1 +1,24 @@
-{}
+{
+  "vgaqm5": {
+    "code": "vgaqm5",
+    "description": "Prime Bersama Garuda",
+    "gamebuild": "2612",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/vgaqm5/928523166.png",
+    "id": "vgaqm5",
+    "ip": "49.128.187.58:30120",
+    "locale": "id-ID",
+    "max_players": 1000,
+    "name": "Garuda Prime Roleplay Indonesia",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/garuda_prime/128/4583929_2.png",
+      "id": 18679706,
+      "name": "Garuda_Prime",
+      "profile": "https://forum.cfx.re/u/Garuda_Prime"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AttachmentExtension\":430,\"CMoveObject\":75,\"FragmentStore\":14000,\"LightEntity\":1000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"fragInstGta\":2000,\"netGameEvent\":400}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T15:49:07Z"
+  }
+}
