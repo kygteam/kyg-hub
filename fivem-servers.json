@@ -43,6 +43,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:14:28Z"
   },
+  "98yrzem": {
+    "code": "98yrzem",
+    "description": "MEDAN TEMPUR VERSI ARENA",
+    "gamebuild": "3788",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/98yrzem/1064580742.png",
+    "id": "98yrzem",
+    "ip": "31.58.143.187:30120",
+    "locale": "id-ID",
+    "max_players": 600,
+    "name": "JING",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/warungcucur/128/4966942_2.png",
+      "id": 19035913,
+      "name": "WarungCucur",
+      "profile": "https://forum.cfx.re/u/WarungCucur"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"Building\":500,\"CDoorSyncData\":20,\"CMoveObject\":600,\"CNetObjDoor\":20,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":30000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"fwDynamicArchetypeComponent\":30000,\"netGameEvent\":400}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:19:46Z"
+  },
   "bdx4lql": {
     "code": "bdx4lql",
     "description": "Rumah Kita Bersama",
