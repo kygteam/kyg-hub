@@ -285,6 +285,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:14:12Z"
   },
+  "kr7k7d": {
+    "code": "kr7k7d",
+    "description": "Your Roleplay Home with a New Experience 2.0",
+    "gamebuild": "2612",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/kr7k7d/577531329.png",
+    "id": "kr7k7d",
+    "ip": "210.247.249.214:30120",
+    "locale": "id-ID",
+    "max_players": 1000,
+    "name": "CR ROLEPLAY 2.0",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/cr_roleplay/128/4969219_2.png",
+      "id": 18668186,
+      "name": "cr_roleplay",
+      "profile": "https://forum.cfx.re/u/cr_roleplay"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"fragInstGta\":2000,\"netGameEvent\":400}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:23:27Z"
+  },
   "lqzmjv": {
     "code": "lqzmjv",
     "description": "Melee Training , PVP , Zombie",
