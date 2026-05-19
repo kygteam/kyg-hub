@@ -21,6 +21,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:19:08Z"
   },
+  "3e3gdb": {
+    "code": "3e3gdb",
+    "description": "Dream Big Live Twice",
+    "gamebuild": "2612",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/3e3gdb/142087119.png",
+    "id": "3e3gdb",
+    "ip": "49.128.187.46:30120",
+    "locale": "id-ID",
+    "max_players": 1000,
+    "name": "Satu Mimpi",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/satumimpiroleplay/128/4966244_2.png",
+      "id": 17836221,
+      "name": "SatuMimpiRoleplay",
+      "profile": "https://forum.cfx.re/u/SatuMimpiRoleplay"
+    },
+    "package": "pt",
+    "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:21:53Z"
+  },
   "55kd96": {
     "code": "55kd96",
     "description": "Satu Kampoeng, Sejuta Kisah",
