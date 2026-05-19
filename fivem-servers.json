@@ -1,4 +1,26 @@
 {
+  "plj9dy": {
+    "code": "plj9dy",
+    "description": "Let's build your story in origami city",
+    "gamebuild": "2944",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/plj9dy/1740105241.png",
+    "id": "plj9dy",
+    "ip": "204.10.193.11:30120",
+    "locale": "id-ID",
+    "max_players": 750,
+    "name": "ORIGAMI ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/origamiroleplay/128/6140231_2.png",
+      "id": 17468899,
+      "name": "origamiroleplay",
+      "profile": "https://forum.cfx.re/u/origamiroleplay"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"fragInstGta\":2000,\"netGameEvent\":400}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:13:56Z"
+  },
   "vgaqm5": {
     "code": "vgaqm5",
     "description": "Prime Bersama Garuda",
