@@ -131,6 +131,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:14:12Z"
   },
+  "lqzmjv": {
+    "code": "lqzmjv",
+    "description": "Melee Training , PVP , Zombie",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/lqzmjv/-544620625.png",
+    "id": "lqzmjv",
+    "ip": "104.234.180.118:30120",
+    "locale": "en-MY",
+    "max_players": 300,
+    "name": "BERSAMA V2",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/bv2-team/128/5671598_2.png",
+      "id": 17402426,
+      "name": "BV2-TEAM",
+      "profile": "https://forum.cfx.re/u/BV2-TEAM"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "pure_level": "1",
+    "scraped_at": "2026-05-19T16:20:28Z"
+  },
   "mez5p7": {
     "code": "mez5p7",
     "description": "let's Make a good community",
