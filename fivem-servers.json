@@ -351,6 +351,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:23:50Z"
   },
+  "kblaja": {
+    "code": "kblaja",
+    "description": "Modern Malaysia Roleplay • Custom Cars • Custom Jobs • Realistic Lifestyle",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/kblaja/1784929334.png",
+    "id": "kblaja",
+    "ip": "31.58.143.16:30120",
+    "locale": "en-MY",
+    "max_players": 500,
+    "name": "PORT BAEK MALAYSIA #1",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/pbnetwork/128/5616232_2.png",
+      "id": 17295949,
+      "name": "pbnetwork",
+      "profile": "https://forum.cfx.re/u/pbnetwork"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "pure_level": "1",
+    "scraped_at": "2026-05-19T16:48:49Z"
+  },
   "kr7k7d": {
     "code": "kr7k7d",
     "description": "Your Roleplay Home with a New Experience 2.0",
