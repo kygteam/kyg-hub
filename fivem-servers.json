@@ -153,6 +153,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:19:46Z"
   },
+  "amavek": {
+    "code": "amavek",
+    "description": "IC serius OOC misterius, bisa BEDA in kan ya",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/amavek/-1359723291.png",
+    "id": "amavek",
+    "ip": "151.243.226.107:30120",
+    "locale": "en-ID",
+    "max_players": 200,
+    "name": "BEDA ALAM ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/adsdas05/128/6280593_2.png",
+      "id": 7486916,
+      "name": "adsdas05",
+      "profile": "https://forum.cfx.re/u/adsdas05"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:39:48Z"
+  },
   "bdx4lql": {
     "code": "bdx4lql",
     "description": "Rumah Kita Bersama",
