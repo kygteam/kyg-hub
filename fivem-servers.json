@@ -417,6 +417,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:19:30Z"
   },
+  "o47de7": {
+    "code": "o47de7",
+    "description": "Server RP kultur Indonesia, job lengkap, fraksi, Medis, Police, Mechanic, Pedagang",
+    "gamebuild": "3095",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/o47de7/1106429007.png",
+    "id": "o47de7",
+    "ip": "103.31.205.179:30120",
+    "locale": "id-ID",
+    "max_players": 100,
+    "name": "KOTA INDAH INDONESIA V2 | Indonesia Culture | Serious RP | New Player Frien",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/kotinrp/128/6352719_2.png",
+      "id": 2211588,
+      "name": "KOTINRP",
+      "profile": "https://forum.cfx.re/u/KOTINRP"
+    },
+    "package": "au",
+    "poolsizes": "{\"AttachmentExtension\":430,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:42:36Z"
+  },
   "pbp7ga": {
     "code": "pbp7ga",
     "description": "Race Of The City, Racing With Roleplay, Pursuit Is Number 1, Build Your Dreams Car and Become The King Of Racing",
