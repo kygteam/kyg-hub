@@ -1,4 +1,26 @@
 {
+  "gad5d7z": {
+    "code": "gad5d7z",
+    "description": "MENGHARGAI & MENGHORMATI",
+    "gamebuild": "3788",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/gad5d7z/1411448061.png",
+    "id": "gad5d7z",
+    "ip": "104.234.180.251:30120",
+    "locale": "id-ID",
+    "max_players": 1000,
+    "name": "KISAH NUSANTARA ROLEPLAY INDONESIA",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://avatars.discourse.org/v4/letter/k/7933a0/128.png",
+      "id": 17168377,
+      "name": "kisahnusantara.rp",
+      "profile": "https://forum.cfx.re/u/kisahnusantara.rp"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"Building\":500,\"CDoorSyncData\":20,\"CMoveObject\":600,\"CNetObjDoor\":20,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":30000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"fwDynamicArchetypeComponent\":30000,\"netGameEvent\":400}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:14:12Z"
+  },
   "plj9dy": {
     "code": "plj9dy",
     "description": "Let's build your story in origami city",
