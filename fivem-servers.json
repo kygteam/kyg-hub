@@ -395,6 +395,28 @@
     "pure_level": "0",
     "scraped_at": "2026-05-19T16:13:56Z"
   },
+  "qqa4y56": {
+    "code": "qqa4y56",
+    "description": "FEEL THE #MOXIEXPERIENCE",
+    "gamebuild": "2944",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/qqa4y56/-2144017187.png",
+    "id": "qqa4y56",
+    "ip": "49.128.187.74:30120",
+    "locale": "EN-ID",
+    "max_players": 888,
+    "name": "MOXIE ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/moxieroleplay/128/5918861_2.png",
+      "id": 8545405,
+      "name": "MOXIEROLEPLAY",
+      "profile": "https://forum.cfx.re/u/MOXIEROLEPLAY"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:26:59Z"
+  },
   "r35px8": {
     "code": "r35px8",
     "description": "#5TILLKOTAKITA",
