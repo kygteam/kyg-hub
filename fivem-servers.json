@@ -1,4 +1,26 @@
 {
+  "55kd96": {
+    "code": "55kd96",
+    "description": "Satu Kampoeng, Sejuta Kisah",
+    "gamebuild": "3095",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/55kd96/540036569.png",
+    "id": "55kd96",
+    "ip": "https://play.kampoeng.vhicloud.com/",
+    "locale": "id-ID",
+    "max_players": 280,
+    "name": "Kampoeng Roleplay Indonesia",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://avatars.discourse.org/v4/letter/b/7933a0/128.png",
+      "id": 15636544,
+      "name": "braveproject",
+      "profile": "https://forum.cfx.re/u/braveproject"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":12000,\"EntityDescPool\":10000,\"FragmentStore\":10000,\"TxdStore\":15000}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-19T16:14:28Z"
+  },
   "gad5d7z": {
     "code": "gad5d7z",
     "description": "MENGHARGAI & MENGHORMATI",
