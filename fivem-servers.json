@@ -5,7 +5,7 @@
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/55kd96/540036569.png",
     "id": "55kd96",
-    "ip": "https://play.kampoeng.vhicloud.com/",
+    "ip": "play.kampoeng.vhicloud.com",
     "locale": "id-ID",
     "max_players": 280,
     "name": "Kampoeng Roleplay Indonesia",
