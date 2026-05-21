@@ -549,6 +549,29 @@
     "pure_level": "0",
     "scraped_at": "2026-05-20T01:41:40Z"
   },
+  "r4ragg": {
+    "code": "r4ragg",
+    "description": "Mimpi yang terkubur bukan berarti mati, ia hanya menunggu keberanian untuk dibangunkan.",
+    "framework": "Qbox Project",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/r4ragg/1614808884.png",
+    "id": "r4ragg",
+    "ip": "104.234.180.211:30120",
+    "locale": "id-ID",
+    "max_players": 64,
+    "name": "IndoHope Roleplay Reborn",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/maul1414/128/4621596_2.png",
+      "id": 13241244,
+      "name": "Maul1414",
+      "profile": "https://forum.cfx.re/u/Maul1414"
+    },
+    "package": "ag",
+    "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
+    "pure_level": "0",
+    "scraped_at": "2026-05-21T09:19:37Z"
+  },
   "roek67": {
     "code": "roek67",
     "description": "Project Reborn",
