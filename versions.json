@@ -10,8 +10,8 @@
     "version": "0.1.0"
   },
   "kyogo_dock": {
-    "notes": "v0.1.1 Test - Fixed database initialization freeze, optimized phpMyAdmin automated routing, added System Tray minification, and implemented rotative logging.",
-    "pub_date": "2026-05-17T21:30:00Z",
-    "version": "0.1.1"
+    "notes": "update versioning and enhance version response structures for Apache, PHP, MySQL, and FXServer",
+    "pub_date": "2026-05-23T16:12:58Z",
+    "version": "0.1.2"
   }
 }
