@@ -5,9 +5,9 @@
     "version": "0.1.0"
   },
   "kyogo_desk": {
-    "notes": "test",
-    "pub_date": "2026-05-22T05:59:01Z",
-    "version": "0.1.0"
+    "notes": "Implement disk cleanup functionality with scanning and purging capabilities + Add additional buttons for Discord activity and improve input field accessibility",
+    "pub_date": "2026-05-24T02:20:30Z",
+    "version": "0.1.1"
   },
   "kyogo_dock": {
     "notes": "update versioning and enhance version response structures for Apache, PHP, MySQL, and FXServer",
