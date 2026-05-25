@@ -1,8 +1,8 @@
 {
   "kyofive_tools_v2": {
-    "notes": "Team Beta Test",
-    "pub_date": "2026-05-19T14:01:38Z",
-    "version": "0.1.0"
+    "notes": "Feat: DNS backup/restore & live ping | Refactor: Instant cache swap via fs::rename | Fix: Dynamic Discord IPC pipe discovery",
+    "pub_date": "2026-05-25T05:03:50Z",
+    "version": "0.1.1"
   },
   "kyogo_desk": {
     "notes": "Implement disk cleanup functionality with scanning and purging capabilities + Add additional buttons for Discord activity and improve input field accessibility",
