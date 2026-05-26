@@ -713,6 +713,16 @@
       "name": "LegacyIndonesia",
       "profile": "https://forum.cfx.re/u/LegacyIndonesia"
     },
+    "proxy": [
+      {
+        "endpoint": "main.imeroleplay.com",
+        "label": "Main Gate"
+      },
+      {
+        "endpoint": "inter.imeroleplay.com",
+        "label": "International Gate"
+      }
+    ],
     "package": "pt",
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "pure_level": "0",
