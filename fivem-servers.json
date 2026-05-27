@@ -170,7 +170,7 @@
   "amavek": {
     "code": "amavek",
     "description": "IC serius OOC misterius, bisa BEDA in kan ya",
-    "discord": "",
+    "discord": "https://discord.gg/qpYssPQJ8k",
     "framework": "Standalone",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/amavek/-1359723291.png",
@@ -189,7 +189,7 @@
     "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:24Z"
+    "scraped_at": "2026-05-27T14:28:04Z"
   },
   "bdx4lql": {
     "code": "bdx4lql",
