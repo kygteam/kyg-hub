@@ -530,7 +530,7 @@
   "plj9dy": {
     "code": "plj9dy",
     "description": "Let's build your story in origami city",
-    "discord": "https://discord.gg/origamirp",
+    "discord": "https://discord.gg/66mf2pgpjM",
     "framework": "Qbox Project",
     "gamebuild": "2944",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/plj9dy/1740105241.png",
@@ -547,9 +547,14 @@
     },
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"fragInstGta\":2000,\"netGameEvent\":400}",
-    "proxy": [],
+    "proxy": [
+      {
+        "endpoint": "139.162.20.206:30120",
+        "label": "Local Gate"
+      }
+    ],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:53Z"
+    "scraped_at": "2026-05-27T14:26:14Z"
   },
   "qqa4y56": {
     "code": "qqa4y56",
