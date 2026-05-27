@@ -242,7 +242,7 @@
   "da5dzj": {
     "code": "da5dzj",
     "description": "Make Your Own Story.",
-    "discord": "",
+    "discord": "https://discord.gg/2txbvrJFK",
     "framework": "Qbox Project",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/da5dzj/-517661413.png",
@@ -259,9 +259,18 @@
     },
     "package": "pt",
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
-    "proxy": [],
+    "proxy": [
+      {
+        "endpoint": "cfx-solarisrp.cdn-fivem.my.id",
+        "label": "International"
+      },
+      {
+        "endpoint": "cfx-solarisrplokal.cdn-fivem.my.id",
+        "label": "Local"
+      }
+    ],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:30Z"
+    "scraped_at": "2026-05-27T16:37:20Z"
   },
   "e6e6lmp": {
     "code": "e6e6lmp",
