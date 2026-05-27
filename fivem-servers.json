@@ -762,7 +762,7 @@
   "zrvmg4": {
     "code": "zrvmg4",
     "description": "iMe Roleplay",
-    "discord": "",
+    "discord": "https://discord.gg/USUpSJhZWw",
     "framework": "Qbox Project",
     "gamebuild": "2612",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/zrvmg4/-1132135871.png",
@@ -790,7 +790,7 @@
       }
     ],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:25:10Z"
+    "scraped_at": "2026-05-27T14:27:27Z"
   },
   "zxmea5": {
     "code": "zxmea5",
