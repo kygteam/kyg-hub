@@ -95,6 +95,31 @@
     "pure_level": "0",
     "scraped_at": "2026-05-27T14:24:16Z"
   },
+  "7qkjvr": {
+    "code": "7qkjvr",
+    "description": "Let It Echo",
+    "discord": "",
+    "framework": "Standalone",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/7qkjvr/-894235968.png",
+    "id": "7qkjvr",
+    "ip": "104.234.180.154:30120",
+    "locale": "en-MY",
+    "max_players": 600,
+    "name": "Echo District",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/echodistrict/128/4967447_2.png",
+      "id": 18177953,
+      "name": "ECHODISTRICT",
+      "profile": "https://forum.cfx.re/u/ECHODISTRICT"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "proxy": [],
+    "pure_level": "1",
+    "scraped_at": "2026-05-28T11:05:34Z"
+  },
   "7y66bb": {
     "code": "7y66bb",
     "description": "ADIKBERADIK RP",
