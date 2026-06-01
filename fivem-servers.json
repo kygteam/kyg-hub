@@ -398,6 +398,40 @@
     "pure_level": "0",
     "scraped_at": "2026-05-28T18:57:16Z"
   },
+  "gadxybq": {
+    "code": "gadxybq",
+    "description": "free to play light city with various interesting features.",
+    "discord": "",
+    "framework": "Qbox Project",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/gadxybq/936653089.png",
+    "id": "gadxybq",
+    "ip": "82.25.36.26:30121",
+    "locale": "en-id",
+    "max_players": 128,
+    "name": "IM ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://avatars.discourse.org/v4/letter/i/7933a0/128.png",
+      "id": 1376490,
+      "name": "iHan270796",
+      "profile": "https://forum.cfx.re/u/iHan270796"
+    },
+    "package": "au",
+    "poolsizes": "",
+    "proxy": [
+      {
+        "endpoint": "im.mayernetwork.net",
+        "label": "Local"
+      },
+      {
+        "endpoint": "im-global.mayernetwork.net",
+        "label": "Global"
+      }
+    ],
+    "pure_level": "0",
+    "scraped_at": "2026-06-01T10:45:16Z"
+  },
   "jygd5m": {
     "code": "jygd5m",
     "description": "From the ashes of Ground Zero, a new world rises. Will you rebuild civilization or rot with the rest? Your story of survival starts here.",
