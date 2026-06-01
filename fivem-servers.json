@@ -190,7 +190,7 @@
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"Building\":500,\"CDoorSyncData\":20,\"CMoveObject\":600,\"CNetObjDoor\":20,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":30000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"fwDynamicArchetypeComponent\":30000,\"netGameEvent\":400}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:22Z"
+    "scraped_at": "2026-06-01T10:43:08Z"
   },
   "amavek": {
     "code": "amavek",
