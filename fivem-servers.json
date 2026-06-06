@@ -503,17 +503,20 @@
     "scraped_at": "2026-06-06T04:14:32Z"
   },
   "lk6x85": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/AfIDUpQnjIRzz22V5epcL/banner_connecting_memories.gif",
+      "detail": "https://r2.fivemanage.com/AfIDUpQnjIRzz22V5epcL/banner_detail_memories.gif"
+    },
     "code": "lk6x85",
     "description": "KOTA INI TAK SAMA TANPAMU",
-    "discord": "https://discord.gg/JYR3pqMv8G",
+    "discord": "https://discord.gg/6TYcupHbfr",
     "framework": "QBCore",
     "gamebuild": "2944",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/lk6x85/940187064.png",
-    "id": "lk6x85",
     "ip": "103.42.116.72:30120",
     "locale": "id-ID",
     "max_players": 150,
-    "name": "",
+    "name": "MEMORIES ROLEPLAY INDONESIA",
     "onesync": "true",
     "owner": {
       "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/memoriesrp/128/6453706_2.png",
@@ -541,8 +544,9 @@
         "label": "Jakarta"
       }
     ],
+    "public_feed": "memoriesrp@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:17:52Z"
+    "scraped_at": "2026-06-06T13:27:09Z"
   },
   "lqzmjv": {
     "code": "lqzmjv",
