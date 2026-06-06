@@ -1,8 +1,8 @@
 {
   "kyofive_tools_v2": {
-    "notes": "Implemented a new Cache Importer module into the Cache Manager ecosystem",
-    "pub_date": "2026-05-28T01:40:47Z",
-    "version": "0.1.3"
+    "notes": "Iimproves the Cache Manager with an added folder validation check before cache migration and a new loading indicator for smoother navigation, while expanding the network toolkit with new DNS selection options and fixing a player list accessibility bug for specific servers.",
+    "pub_date": "2026-06-06T13:57:49Z",
+    "version": "0.1.4"
   },
   "kyogo_desk": {
     "notes": "Implement disk cleanup functionality with scanning and purging capabilities + Add additional buttons for Discord activity and improve input field accessibility",
