@@ -21,7 +21,7 @@
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"netGameEvent\":400}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:11Z"
+    "scraped_at": "2026-06-06T04:13:55Z"
   },
   "3e3gdb": {
     "code": "3e3gdb",
@@ -45,7 +45,7 @@
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:13Z"
+    "scraped_at": "2026-06-06T04:13:57Z"
   },
   "55kd96": {
     "code": "55kd96",
@@ -69,11 +69,11 @@
     "poolsizes": "{\"AnimStore\":12000,\"EntityDescPool\":10000,\"FragmentStore\":10000,\"TxdStore\":15000}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:14Z"
+    "scraped_at": "2026-06-06T04:13:59Z"
   },
   "6j4z5j": {
     "code": "6j4z5j",
-    "description": "RETORIKA ROLEPLAY INDONESIA",
+    "description": "CERITA DIMULAI DARI SEBUAH DIALOG.",
     "discord": "https://discord.gg/retorika",
     "framework": "Qbox Project",
     "gamebuild": "3095",
@@ -93,7 +93,7 @@
     "poolsizes": "",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:16Z"
+    "scraped_at": "2026-06-06T04:14:01Z"
   },
   "7qkjvr": {
     "code": "7qkjvr",
@@ -102,7 +102,6 @@
     "framework": "Standalone",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/7qkjvr/-894235968.png",
-    "id": "7qkjvr",
     "ip": "104.234.180.154:30120",
     "locale": "en-MY",
     "max_players": 600,
@@ -118,7 +117,7 @@
     "poolsizes": "",
     "proxy": [],
     "pure_level": "1",
-    "scraped_at": "2026-05-28T11:05:34Z"
+    "scraped_at": "2026-06-06T04:14:03Z"
   },
   "7y66bb": {
     "code": "7y66bb",
@@ -190,7 +189,7 @@
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"Building\":500,\"CDoorSyncData\":20,\"CMoveObject\":600,\"CNetObjDoor\":20,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":30000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"fwDynamicArchetypeComponent\":30000,\"netGameEvent\":400}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-06-01T10:43:08Z"
+    "scraped_at": "2026-06-06T04:14:09Z"
   },
   "amavek": {
     "code": "amavek",
@@ -214,7 +213,7 @@
     "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:28:04Z"
+    "scraped_at": "2026-06-06T04:14:11Z"
   },
   "bdx4lql": {
     "code": "bdx4lql",
@@ -223,10 +222,10 @@
     "framework": "Standalone",
     "gamebuild": "2612",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/bdx4lql/-362622762.png",
-    "ip": "49.128.187.98:30120",
+    "ip": "49.128.187.86:30120",
     "locale": "id-ID",
     "max_players": 828,
-    "name": "Rumah Kita Roleplay",
+    "name": "Rumah Kita Roleplay Indonesia",
     "onesync": "true",
     "owner": {
       "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/rumah_kita/128/4584679_2.png",
@@ -238,7 +237,7 @@
     "poolsizes": "",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:26Z"
+    "scraped_at": "2026-06-06T04:14:13Z"
   },
   "bjyd8b": {
     "code": "bjyd8b",
@@ -295,7 +294,7 @@
       }
     ],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T16:37:20Z"
+    "scraped_at": "2026-06-06T04:14:17Z"
   },
   "e6e6lmp": {
     "code": "e6e6lmp",
@@ -343,7 +342,7 @@
     "poolsizes": "{\"AnimStore\":20480,\"Building\":500,\"CMoveObject\":600,\"TxdStore\":6000}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:33Z"
+    "scraped_at": "2026-06-06T04:14:21Z"
   },
   "eql83a": {
     "code": "eql83a",
@@ -367,7 +366,7 @@
     "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"TxdStore\":26000}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:35Z"
+    "scraped_at": "2026-06-06T04:14:23Z"
   },
   "gad5d7z": {
     "code": "gad5d7z",
@@ -396,7 +395,7 @@
       }
     ],
     "pure_level": "0",
-    "scraped_at": "2026-05-28T18:57:16Z"
+    "scraped_at": "2026-06-06T04:14:24Z"
   },
   "gadxybq": {
     "code": "gadxybq",
@@ -405,7 +404,6 @@
     "framework": "Qbox Project",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/gadxybq/936653089.png",
-    "id": "gadxybq",
     "ip": "82.25.36.26:30121",
     "locale": "en-id",
     "max_players": 128,
@@ -430,7 +428,7 @@
       }
     ],
     "pure_level": "0",
-    "scraped_at": "2026-06-01T10:45:34Z"
+    "scraped_at": "2026-06-06T04:14:27Z"
   },
   "jygd5m": {
     "code": "jygd5m",
@@ -442,7 +440,7 @@
     "ip": "210.247.249.98:30120",
     "locale": "en-ID",
     "max_players": 501,
-    "name": "[PZ] PROJECT ZERØ",
+    "name": "[PZ] PROJECT ZERO",
     "onesync": "true",
     "owner": {
       "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/cfx_stateofindonesia/128/4967796_2.png",
@@ -454,7 +452,7 @@
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"netGameEvent\":400}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:39Z"
+    "scraped_at": "2026-06-06T04:14:29Z"
   },
   "kblaja": {
     "code": "kblaja",
@@ -478,7 +476,7 @@
     "poolsizes": "",
     "proxy": [],
     "pure_level": "1",
-    "scraped_at": "2026-05-27T14:24:41Z"
+    "scraped_at": "2026-06-06T04:14:30Z"
   },
   "kr7k7d": {
     "code": "kr7k7d",
@@ -487,13 +485,13 @@
     "framework": "Standalone",
     "gamebuild": "2612",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/kr7k7d/577531329.png",
-    "ip": "210.247.249.214:30120",
+    "ip": "103.42.116.42:30120",
     "locale": "id-ID",
     "max_players": 1000,
     "name": "CR ROLEPLAY 2.0",
     "onesync": "true",
     "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/cr_roleplay/128/4969219_2.png",
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/cr_roleplay/128/6530882_2.png",
       "id": 18668186,
       "name": "cr_roleplay",
       "profile": "https://forum.cfx.re/u/cr_roleplay"
@@ -502,7 +500,7 @@
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"fragInstGta\":2000,\"netGameEvent\":400}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:43Z"
+    "scraped_at": "2026-06-06T04:14:32Z"
   },
   "lqzmjv": {
     "code": "lqzmjv",
@@ -526,7 +524,7 @@
     "poolsizes": "",
     "proxy": [],
     "pure_level": "1",
-    "scraped_at": "2026-05-27T14:24:45Z"
+    "scraped_at": "2026-06-06T04:14:34Z"
   },
   "mez5p7": {
     "code": "mez5p7",
@@ -537,7 +535,7 @@
     "icon": "https://frontend.cfx-services.net/api/servers/icon/mez5p7/1163679694.png",
     "ip": "host.kotabaruroleplay.com",
     "locale": "id-ID",
-    "max_players": 1068,
+    "max_players": 128,
     "name": "KOTABARU ROLEPLAY",
     "onesync": "true",
     "owner": {
@@ -550,7 +548,7 @@
     "poolsizes": "",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:47Z"
+    "scraped_at": "2026-06-06T04:14:36Z"
   },
   "o47de7": {
     "code": "o47de7",
@@ -559,7 +557,7 @@
     "framework": "Qbox Project",
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/o47de7/1106429007.png",
-    "ip": "103.31.205.179:30120",
+    "ip": "103.42.116.73:30120",
     "locale": "id-ID",
     "max_players": 100,
     "name": "KOTA INDAH INDONESIA V2 | Indonesia Culture | Serious RP | New Player Frien",
@@ -574,7 +572,7 @@
     "poolsizes": "{\"AttachmentExtension\":430,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:49Z"
+    "scraped_at": "2026-06-06T04:14:38Z"
   },
   "pbp7ga": {
     "code": "pbp7ga",
@@ -585,7 +583,7 @@
     "icon": "https://frontend.cfx-services.net/api/servers/icon/pbp7ga/-2059216944.png",
     "ip": "15.235.128.191:30120",
     "locale": "id-ID",
-    "max_players": 128,
+    "max_players": 64,
     "name": "Asphalt Street",
     "onesync": "true",
     "owner": {
@@ -594,16 +592,16 @@
       "name": "AsphaltStreet",
       "profile": "https://forum.cfx.re/u/AsphaltStreet"
     },
-    "package": "au",
+    "package": "ag",
     "poolsizes": "{\"AnimStore\":20480}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:51Z"
+    "scraped_at": "2026-06-06T04:14:40Z"
   },
   "plj9dy": {
     "code": "plj9dy",
     "description": "Let's build your story in origami city",
-    "discord": "https://discord.gg/66mf2pgpjM",
+    "discord": "https://discord.gg/origamirp",
     "framework": "Qbox Project",
     "gamebuild": "2944",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/plj9dy/1740105241.png",
@@ -627,7 +625,7 @@
       }
     ],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:26:14Z"
+    "scraped_at": "2026-06-06T04:14:42Z"
   },
   "qqa4y56": {
     "code": "qqa4y56",
@@ -651,7 +649,7 @@
     "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:55Z"
+    "scraped_at": "2026-06-06T04:14:44Z"
   },
   "r35px8": {
     "code": "r35px8",
@@ -675,7 +673,7 @@
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"netGameEvent\":400}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:57Z"
+    "scraped_at": "2026-06-06T04:14:45Z"
   },
   "r4ragg": {
     "code": "r4ragg",
@@ -699,7 +697,7 @@
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:59Z"
+    "scraped_at": "2026-06-06T04:14:47Z"
   },
   "roek67": {
     "code": "roek67",
@@ -723,7 +721,7 @@
     "poolsizes": "{\"AttachmentExtension\":430,\"CMoveObject\":600,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"netGameEvent\":400}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:25:01Z"
+    "scraped_at": "2026-06-06T04:14:49Z"
   },
   "vgaqm5": {
     "code": "vgaqm5",
@@ -760,7 +758,7 @@
       }
     ],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:25:02Z"
+    "scraped_at": "2026-06-06T04:14:51Z"
   },
   "xj9l5r": {
     "code": "xj9l5r",
@@ -784,7 +782,7 @@
     "poolsizes": "{\"AnimStore\":20480}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:25:04Z"
+    "scraped_at": "2026-06-06T04:14:53Z"
   },
   "y9vvlo5": {
     "code": "y9vvlo5",
@@ -815,7 +813,6 @@
     "framework": "Qbox Project",
     "gamebuild": "2944",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/ymzj4j/0.png",
-    "id": "ymzj4j",
     "ip": "private-placeholder.cfx.re",
     "locale": "en-ID",
     "max_players": 1000,
@@ -831,7 +828,7 @@
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-29T01:07:42Z"
+    "scraped_at": "2026-06-06T04:14:57Z"
   },
   "z5oaqp": {
     "code": "z5oaqp",
@@ -855,7 +852,7 @@
     "poolsizes": "",
     "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:25:08Z"
+    "scraped_at": "2026-06-06T04:14:59Z"
   },
   "zrvmg4": {
     "code": "zrvmg4",
@@ -888,18 +885,19 @@
       }
     ],
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:27:27Z"
+    "scraped_at": "2026-06-06T04:15:01Z"
   },
   "zxmea5": {
     "code": "zxmea5",
-    "description": "SATU CERITA KITA",
+    "description": "SETIAP CERITA ADALAH BAGIAN DARI KITA",
+    "discord": "https://discord.gg/ceritakitarp",
     "framework": "Standalone",
     "gamebuild": "2802",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/zxmea5/428373631.png",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/zxmea5/932083279.png",
     "ip": "49.128.187.42:30120",
     "locale": "id-ID",
-    "max_players": 666,
-    "name": "CERITA KITA ROLEPLAY",
+    "max_players": 555,
+    "name": "CERITA KITA ROLEPLAYY",
     "onesync": "true",
     "owner": {
       "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/cerita_kita/128/5610711_2.png",
@@ -909,7 +907,8 @@
     },
     "package": "pt",
     "poolsizes": "",
+    "proxy": [],
     "pure_level": "0",
-    "scraped_at": "2026-05-20T01:41:54Z"
+    "scraped_at": "2026-06-06T04:15:02Z"
   }
 }
