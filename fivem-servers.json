@@ -502,6 +502,48 @@
     "pure_level": "0",
     "scraped_at": "2026-06-06T04:14:32Z"
   },
+  "lk6x85": {
+    "code": "lk6x85",
+    "description": "KOTA INI TAK SAMA TANPAMU",
+    "discord": "https://discord.gg/JYR3pqMv8G",
+    "framework": "QBCore",
+    "gamebuild": "2944",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/lk6x85/940187064.png",
+    "id": "lk6x85",
+    "ip": "103.42.116.72:30120",
+    "locale": "id-ID",
+    "max_players": 150,
+    "name": "",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/memoriesrp/128/6453706_2.png",
+      "id": 271823,
+      "name": "MemoriesRP",
+      "profile": "https://forum.cfx.re/u/MemoriesRP"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
+    "proxy": [
+      {
+        "endpoint": "memoriesrp-id.raznar.net",
+        "label": "Gate 1"
+      },
+      {
+        "endpoint": "memoriesrp-id2.raznar.net",
+        "label": "Gate 2"
+      },
+      {
+        "endpoint": "memoriesrp-sg.raznar.net",
+        "label": "Singapore"
+      },
+      {
+        "endpoint": "memoriesrp-jkt.raznar.net",
+        "label": "Jakarta"
+      }
+    ],
+    "pure_level": "0",
+    "scraped_at": "2026-06-06T04:17:52Z"
+  },
   "lqzmjv": {
     "code": "lqzmjv",
     "description": "Melee Training , PVP , Zombie",
