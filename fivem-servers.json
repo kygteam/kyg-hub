@@ -71,6 +71,36 @@
     "pure_level": "0",
     "scraped_at": "2026-06-06T04:13:59Z"
   },
+  "5oyegr7": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "5oyegr7",
+    "description": "Project Shine",
+    "discord": "discord.gg/F8xHWsb4ZF",
+    "framework": "Qbox Project",
+    "gamebuild": "2699",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/5oyegr7/1579453755.png",
+    "id": "5oyegr7",
+    "ip": "45.139.226.144:30120",
+    "locale": "id-ID",
+    "max_players": 250,
+    "name": "Townshine Roleplay",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/devimpian_roleplay/128/4968781_2.png",
+      "id": 17796763,
+      "name": "devimpian_roleplay",
+      "profile": "https://forum.cfx.re/u/devimpian_roleplay"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":500,\"TxdStore\":26000,\"netGameEvent\":400}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-06-09T13:48:15Z"
+  },
   "6j4z5j": {
     "code": "6j4z5j",
     "description": "CERITA DIMULAI DARI SEBUAH DIALOG.",
