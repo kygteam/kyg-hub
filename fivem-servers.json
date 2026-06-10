@@ -808,6 +808,36 @@
     "pure_level": "0",
     "scraped_at": "2026-06-06T04:14:49Z"
   },
+  "vagdok": {
+    "banner": {
+      "connecting": "",
+      "detail": "bannerdanconnect.gif"
+    },
+    "code": "vagdok",
+    "description": "OPEN BADSIDE AND WHITELIST",
+    "discord": "discord.gg/DZKa8vRDk",
+    "framework": "ESX Legacy",
+    "gamebuild": "2802",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/vagdok/-137382032.png",
+    "id": "vagdok",
+    "ip": "103.42.116.156:31968",
+    "locale": "id-ID",
+    "max_players": 128,
+    "name": "KISAH BARU ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/kod_bryan/128/4130056_2.png",
+      "id": 6948589,
+      "name": "Kod_Bryan",
+      "profile": "https://forum.cfx.re/u/Kod_Bryan"
+    },
+    "package": "au",
+    "poolsizes": "",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-06-10T01:08:35Z"
+  },
   "vgaqm5": {
     "code": "vgaqm5",
     "description": "Prime Bersama Garuda",
