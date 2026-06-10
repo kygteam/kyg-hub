@@ -578,6 +578,36 @@
     "pure_level": "0",
     "scraped_at": "2026-06-06T13:27:09Z"
   },
+  "lke7l5": {
+    "banner": {
+      "connecting": "https://fdata.minecuta.com/image/banner-vr-cnc.gif",
+      "detail": "https://fdata.minecuta.com/image/banner-vr-dtl.gif"
+    },
+    "code": "lke7l5",
+    "description": "^3Create Your own ^5Stars^0 And ^2Story",
+    "discord": "https://discord.gg/ffAu32P5JE",
+    "framework": "Standalone",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/lke7l5/1342393692.png",
+    "id": "lke7l5",
+    "ip": "160.250.227.12:30120",
+    "locale": "id-ID",
+    "max_players": 64,
+    "name": "VALORA ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://avatars.discourse.org/v4/letter/v/7933a0/128.png",
+      "id": 1734692,
+      "name": "Valora_Team",
+      "profile": "https://forum.cfx.re/u/Valora_Team"
+    },
+    "package": "ag",
+    "poolsizes": "",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-06-10T14:18:32Z"
+  },
   "lqzmjv": {
     "code": "lqzmjv",
     "description": "Melee Training , PVP , Zombie",
