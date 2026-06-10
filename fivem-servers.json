@@ -683,6 +683,36 @@
     "pure_level": "0",
     "scraped_at": "2026-06-06T04:14:40Z"
   },
+  "pga5az5": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/rP5jH4PlkTszsUsFyx4vV/bannerconnecting.gif",
+      "detail": "https://r2.fivemanage.com/rP5jH4PlkTszsUsFyx4vV/bannerdetail.gif"
+    },
+    "code": "pga5az5",
+    "description": "Beta Opening! Come Join Now!",
+    "discord": "https://discord.gg/lokalitymalaysia",
+    "framework": "Qbox Project",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/pga5az5/1586838435.png",
+    "id": "pga5az5",
+    "ip": "151.243.226.75:30120",
+    "locale": "en-MY",
+    "max_players": 64,
+    "name": "Lokality Malaysia",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/lokality.my/128/4581010_2.png",
+      "id": 18893719,
+      "name": "lokality.my",
+      "profile": "https://forum.cfx.re/u/lokality.my"
+    },
+    "package": "ag",
+    "poolsizes": "",
+    "proxy": [],
+    "public_feed": "lokality@mastodon.social",
+    "pure_level": "0",
+    "scraped_at": "2026-06-10T01:12:29Z"
+  },
   "plj9dy": {
     "code": "plj9dy",
     "description": "Let's build your story in origami city",
