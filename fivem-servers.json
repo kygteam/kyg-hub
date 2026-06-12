@@ -460,6 +460,36 @@
     "pure_level": "0",
     "scraped_at": "2026-06-06T04:14:27Z"
   },
+  "jadyla": {
+    "banner": {
+      "connecting": "https://imgproxy.cfx.re/CIbTJhC9i3Qi9fdbG3dUv-V2QIgqRVRTBkfQYmJIJKg/f:webp/q:70/aHR0cHM6Ly9tZWRpYS5kaXNjb3JkYXBwLm5ldC9hdHRhY2htZW50cy8xMzU3MzMzMTkyODI2NDIxNDIwLzE0MTI5MjIxNzgxNTU4NDM2NzQvc3RhbmRhcmRfMS5naWY.webp",
+      "detail": "https://imgproxy.cfx.re/1m05-YEmZj8ZnP3WC3XlsjjmPbF6D0jlCNQS-h5f-04/f:webp/q:70/aHR0cHM6Ly9tZWRpYS5kaXNjb3JkYXBwLm5ldC9hdHRhY2htZW50cy8xMzU3MzMzMTkyODI2NDIxNDIwLzE0MTI5MjIwNDcxODAzMDg0OTEvc3RhbmRhcmRfMi5naWY_d2lkdGg9MTAzMiZoZWlnaHQ9NjA.webp"
+    },
+    "code": "jadyla",
+    "description": "Respect & Good Attitude",
+    "discord": "https://discord.gg/HY6pXqZmc5",
+    "framework": "QBCore",
+    "gamebuild": "3095",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/jadyla/1941992383.png",
+    "id": "jadyla",
+    "ip": "104.234.180.194:30120",
+    "locale": "id-ID",
+    "max_players": 128,
+    "name": "#INDOZONE ROLEPLAY INDONESIA",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/roleplay_indozone/128/5748376_2.png",
+      "id": 17550174,
+      "name": "Roleplay_indozone",
+      "profile": "https://forum.cfx.re/u/Roleplay_indozone"
+    },
+    "package": "au",
+    "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":8000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":18000}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-06-12T19:17:27Z"
+  },
   "jygd5m": {
     "code": "jygd5m",
     "description": "From the ashes of Ground Zero, a new world rises. Will you rebuild civilization or rot with the rest? Your story of survival starts here.",
