@@ -490,6 +490,36 @@
     "pure_level": "0",
     "scraped_at": "2026-06-12T19:17:27Z"
   },
+  "javo7a": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "javo7a",
+    "description": "We Wok De Tok",
+    "discord": "discord.gg/tQJmx44VF",
+    "framework": "Ox Core",
+    "gamebuild": "2612",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/javo7a/947293963.png",
+    "id": "javo7a",
+    "ip": "play.warkopfreeroam.com",
+    "locale": "id-ID",
+    "max_players": 64,
+    "name": "Coffee Shop 45",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/fayvoidz/128/4581836_2.png",
+      "id": 17191377,
+      "name": "FayVoidz",
+      "profile": "https://forum.cfx.re/u/FayVoidz"
+    },
+    "package": "ag",
+    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"Building\":500,\"CDoorSyncData\":20,\"CMoveObject\":600,\"CNetObjDoor\":20,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"netGameEvent\":400}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-06-13T03:26:06Z"
+  },
   "jygd5m": {
     "code": "jygd5m",
     "description": "From the ashes of Ground Zero, a new world rises. Will you rebuild civilization or rot with the rest? Your story of survival starts here.",
