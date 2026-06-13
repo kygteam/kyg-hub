@@ -24,6 +24,10 @@
     "scraped_at": "2026-06-06T04:13:55Z"
   },
   "3e3gdb": {
+    "banner": {
+      "connecting": "https://i.ibb.co.com/XZhHX7GN/connecting.gif",
+      "detail": "https://i.ibb.co.com/gZnqLy52/banner.png"
+    },
     "code": "3e3gdb",
     "description": "Dream Big Live Twice",
     "discord": "https://discord.gg/satumimpi",
@@ -44,10 +48,15 @@
     "package": "pt",
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
+    "public_feed": "axxonz@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:13:57Z"
+    "scraped_at": "2026-06-13T03:26:24Z"
   },
   "55kd96": {
+    "banner": {
+      "connecting": "https://kampoeng.my.id/imageingame/connect.png",
+      "detail": "https://kampoeng.my.id/imageingame/serverlist.png"
+    },
     "code": "55kd96",
     "description": "Satu Kampoeng, Sejuta Kisah",
     "discord": "https://kampoeng.my.id/discord",
@@ -68,8 +77,9 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":12000,\"EntityDescPool\":10000,\"FragmentStore\":10000,\"TxdStore\":15000}",
     "proxy": [],
+    "public_feed": "kampoengroleplay@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:13:59Z"
+    "scraped_at": "2026-06-13T03:26:26Z"
   },
   "5oyegr7": {
     "banner": {
@@ -82,7 +92,6 @@
     "framework": "Qbox Project",
     "gamebuild": "2699",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/5oyegr7/1579453755.png",
-    "id": "5oyegr7",
     "ip": "45.139.226.144:30120",
     "locale": "id-ID",
     "max_players": 250,
@@ -99,9 +108,13 @@
     "proxy": [],
     "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-09T13:48:15Z"
+    "scraped_at": "2026-06-13T03:26:28Z"
   },
   "6j4z5j": {
+    "banner": {
+      "connecting": "",
+      "detail": "https://r2.fivemanage.com/r2k8qbzWVeuARASB7hmSY/logoreto.gif"
+    },
     "code": "6j4z5j",
     "description": "CERITA DIMULAI DARI SEBUAH DIALOG.",
     "discord": "https://discord.gg/retorika",
@@ -122,10 +135,15 @@
     "package": "au",
     "poolsizes": "",
     "proxy": [],
+    "public_feed": "retorikaid@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:01Z"
+    "scraped_at": "2026-06-13T03:26:30Z"
   },
   "7qkjvr": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/2qDyCVpSb60vXuEFZ63PE/1872X298-ED.jpg",
+      "detail": "https://r2.fivemanage.com/2qDyCVpSb60vXuEFZ63PE/1872X108-ED.jpg"
+    },
     "code": "7qkjvr",
     "description": "Let It Echo",
     "discord": "",
@@ -146,8 +164,9 @@
     "package": "pt",
     "poolsizes": "",
     "proxy": [],
+    "public_feed": "",
     "pure_level": "1",
-    "scraped_at": "2026-06-06T04:14:03Z"
+    "scraped_at": "2026-06-13T03:26:32Z"
   },
   "7y66bb": {
     "code": "7y66bb",
@@ -222,6 +241,10 @@
     "scraped_at": "2026-06-06T04:14:09Z"
   },
   "amavek": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/4OlIA4xGJFcA4SLA2hHkh/banner1.png",
+      "detail": "https://r2.fivemanage.com/4OlIA4xGJFcA4SLA2hHkh/babanner.gif"
+    },
     "code": "amavek",
     "description": "IC serius OOC misterius, bisa BEDA in kan ya",
     "discord": "https://discord.gg/qpYssPQJ8k",
@@ -242,10 +265,15 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
     "proxy": [],
+    "public_feed": "BedaAlam@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:11Z"
+    "scraped_at": "2026-06-13T03:26:40Z"
   },
   "bdx4lql": {
+    "banner": {
+      "connecting": "https://i.imgur.com/pK7AlC2.gif",
+      "detail": "https://i.imgur.com/YwwgqED.gif"
+    },
     "code": "bdx4lql",
     "description": "Rumah Kita Bersama",
     "discord": "",
@@ -266,10 +294,15 @@
     "package": "pt",
     "poolsizes": "",
     "proxy": [],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:13Z"
+    "scraped_at": "2026-06-13T03:26:42Z"
   },
   "bjyd8b": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
     "code": "bjyd8b",
     "description": "Tempat Dimana Imajinasi Jadi Nyata.",
     "discord": "",
@@ -290,10 +323,15 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:28Z"
+    "scraped_at": "2026-06-13T03:26:44Z"
   },
   "da5dzj": {
+    "banner": {
+      "connecting": "",
+      "detail": "https://imgproxy.cfx.re/iRg9Ynl8TljuQiiDMCTpDbOepvxpQ5L__6WQRvOriJA/f:webp/q:70/aHR0cHM6Ly9tZWRpYS5kaXNjb3JkYXBwLm5ldC9hdHRhY2htZW50cy8xNDY5MDI2Mzg4MzgzMTA5NDA0LzE0NzkwOTM2MzgyMzQzNzQyNDgvYmFubmVyXzEucG5nP2V4PTY5YWFjOGNiJmlzPTY5YTk3NzRiJmhtPTc3OTllZWQ0NjliMTk1NmM2OGE5M2FkM2M0Y2M3MmRiNmQ1YThiMjljYjY2NWZhMGUxOWQ0MTliMWJlODRhNzUmPSZmb3JtYXQ9d2VicCZxdWFsaXR5PWxvc3NsZXNzJndpZHRoPTEzMzAmaGVpZ2h0PTE3OQ.webp"
+    },
     "code": "da5dzj",
     "description": "Make Your Own Story.",
     "discord": "https://discord.gg/2txbvrJFK",
@@ -323,8 +361,9 @@
         "label": "Local"
       }
     ],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:17Z"
+    "scraped_at": "2026-06-13T03:26:46Z"
   },
   "e6e6lmp": {
     "code": "e6e6lmp",
@@ -351,6 +390,10 @@
     "scraped_at": "2026-05-27T14:24:32Z"
   },
   "ele3bm": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/cyuKcqPPPVZbYFgiHZjyx/image/BANNER_SHORT.png",
+      "detail": "https://r2.fivemanage.com/cyuKcqPPPVZbYFgiHZjyx/nusa_banner.gif"
+    },
     "code": "ele3bm",
     "description": "Happiness never ends!",
     "discord": "https://discord.gg/nusarp",
@@ -371,10 +414,15 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"Building\":500,\"CMoveObject\":600,\"TxdStore\":6000}",
     "proxy": [],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:21Z"
+    "scraped_at": "2026-06-13T03:26:50Z"
   },
   "eql83a": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/mc4Azw9KvdgtCqssLt1Fg/BANNER_GERBANG.png",
+      "detail": "https://r2.fivemanage.com/mc4Azw9KvdgtCqssLt1Fg/BANNER_GERBANG.png"
+    },
     "code": "eql83a",
     "description": "GAS JOIN KITA HALU BARENG",
     "discord": "https://discord.gg/lastparadise",
@@ -395,10 +443,15 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"TxdStore\":26000}",
     "proxy": [],
+    "public_feed": "Lastparadise@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:23Z"
+    "scraped_at": "2026-06-13T03:26:52Z"
   },
   "gad5d7z": {
+    "banner": {
+      "connecting": "https://raw.githubusercontent.com/ItsMeD4N/server-image/main/Connecting.gif",
+      "detail": "https://raw.githubusercontent.com/ItsMeD4N/server-image/main/Banner.gif"
+    },
     "code": "gad5d7z",
     "description": "MENGHARGAI & MENGHORMATI",
     "discord": "https://discord.gg/kisahnusantararoleplay",
@@ -424,10 +477,15 @@
         "label": "Main 1"
       }
     ],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:24Z"
+    "scraped_at": "2026-06-13T03:26:54Z"
   },
   "gadxybq": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
     "code": "gadxybq",
     "description": "free to play light city with various interesting features.",
     "discord": "https://discord.gg/sH6enTeRFT",
@@ -437,7 +495,7 @@
     "ip": "82.25.36.26:30121",
     "locale": "en-id",
     "max_players": 128,
-    "name": "IM ROLEPLAY",
+    "name": "INDO MALAY ROLEPLAY",
     "onesync": "true",
     "owner": {
       "avatar": "https://avatars.discourse.org/v4/letter/i/7933a0/128.png",
@@ -457,8 +515,9 @@
         "label": "Global"
       }
     ],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:27Z"
+    "scraped_at": "2026-06-13T03:26:56Z"
   },
   "jadyla": {
     "banner": {
@@ -471,7 +530,6 @@
     "framework": "QBCore",
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/jadyla/1941992383.png",
-    "id": "jadyla",
     "ip": "104.234.180.194:30120",
     "locale": "id-ID",
     "max_players": 128,
@@ -488,7 +546,7 @@
     "proxy": [],
     "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-12T19:17:27Z"
+    "scraped_at": "2026-06-13T03:26:58Z"
   },
   "javo7a": {
     "banner": {
@@ -501,7 +559,6 @@
     "framework": "Ox Core",
     "gamebuild": "2612",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/javo7a/947293963.png",
-    "id": "javo7a",
     "ip": "play.warkopfreeroam.com",
     "locale": "id-ID",
     "max_players": 64,
@@ -518,9 +575,13 @@
     "proxy": [],
     "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-13T03:26:06Z"
+    "scraped_at": "2026-06-13T03:27:00Z"
   },
   "jygd5m": {
+    "banner": {
+      "connecting": "https://cdn.stateofindonesia.id/pz_logo/connectting.gif",
+      "detail": "https://cdn.stateofindonesia.id/pz_logo/banner.gif"
+    },
     "code": "jygd5m",
     "description": "From the ashes of Ground Zero, a new world rises. Will you rebuild civilization or rot with the rest? Your story of survival starts here.",
     "discord": "https://discord.gg/HAQgFbv2wD",
@@ -541,10 +602,15 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"netGameEvent\":400}",
     "proxy": [],
+    "public_feed": "stateofindonesia@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:29Z"
+    "scraped_at": "2026-06-13T03:27:02Z"
   },
   "kblaja": {
+    "banner": {
+      "connecting": "https://i.postimg.cc/cCRWDGdt/P-O-R-T-B-A-E-K-2.png",
+      "detail": "https://i.postimg.cc/C0tMDLPs/fivembanner.png"
+    },
     "code": "kblaja",
     "description": "Modern Malaysia Roleplay • Custom Cars • Custom Jobs • Realistic Lifestyle",
     "discord": "https://discord.gg/portbaek",
@@ -565,10 +631,15 @@
     "package": "pt",
     "poolsizes": "",
     "proxy": [],
+    "public_feed": "portbaek@mastodon.social",
     "pure_level": "1",
-    "scraped_at": "2026-06-06T04:14:30Z"
+    "scraped_at": "2026-06-13T03:27:04Z"
   },
   "kr7k7d": {
+    "banner": {
+      "connecting": "https://ceritaroleplayku.id/cdn/banner.gif",
+      "detail": "https://ceritaroleplayku.id/cdn/banner.gif"
+    },
     "code": "kr7k7d",
     "description": "Your Roleplay Home with a New Experience 2.0",
     "discord": "https://discord.gg/ceritaroleplayku",
@@ -589,8 +660,9 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"fragInstGta\":2000,\"netGameEvent\":400}",
     "proxy": [],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:32Z"
+    "scraped_at": "2026-06-13T03:27:06Z"
   },
   "lk6x85": {
     "banner": {
@@ -649,7 +721,6 @@
     "framework": "Standalone",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/lke7l5/1342393692.png",
-    "id": "lke7l5",
     "ip": "160.250.227.12:30120",
     "locale": "id-ID",
     "max_players": 64,
@@ -666,9 +737,13 @@
     "proxy": [],
     "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-10T14:18:32Z"
+    "scraped_at": "2026-06-13T03:27:10Z"
   },
   "lqzmjv": {
+    "banner": {
+      "connecting": "https://bersamav2.com/downloads/v2banner.gif",
+      "detail": "https://bersamav2.com/downloads/v2banner.gif"
+    },
     "code": "lqzmjv",
     "description": "Melee Training , PVP , Zombie",
     "discord": "",
@@ -689,17 +764,22 @@
     "package": "pt",
     "poolsizes": "",
     "proxy": [],
+    "public_feed": "",
     "pure_level": "1",
-    "scraped_at": "2026-06-06T04:14:34Z"
+    "scraped_at": "2026-06-13T03:27:12Z"
   },
   "mez5p7": {
+    "banner": {
+      "connecting": "https://i.ibb.co.com/DwJtD1g/banner-connect-kb.gif",
+      "detail": "https://i.ibb.co.com/2P2Yc2n/banner-kb.gif"
+    },
     "code": "mez5p7",
     "description": "let's Make a good community",
     "discord": "https://discord.gg/kotabaru",
     "framework": "Qbox Project",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/mez5p7/1163679694.png",
-    "ip": "host.kotabaruroleplay.com",
+    "ip": "51.79.181.164:10120",
     "locale": "id-ID",
     "max_players": 128,
     "name": "KOTABARU ROLEPLAY",
@@ -711,7 +791,7 @@
       "profile": "https://forum.cfx.re/u/kotabaruroleplay"
     },
     "package": "pt",
-    "poolsizes": "",
+    "poolsizes": "{\"AnimStore\":10000}",
     "proxy": [
       {
         "endpoint": "utama.kotabaruroleplay.com",
@@ -722,10 +802,15 @@
         "label": "International"
       }
     ],
+    "public_feed": "Kotabaru@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-08T10:55:18Z"
+    "scraped_at": "2026-06-13T03:27:14Z"
   },
   "o47de7": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
     "code": "o47de7",
     "description": "Server RP kultur Indonesia, job lengkap, fraksi, Medis, Police, Mechanic, Pedagang",
     "discord": "https://discord.gg/DPMmGbKERp",
@@ -746,10 +831,15 @@
     "package": "au",
     "poolsizes": "{\"AttachmentExtension\":430,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
+    "public_feed": "kotin@fivem.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:38Z"
+    "scraped_at": "2026-06-13T03:27:16Z"
   },
   "pbp7ga": {
+    "banner": {
+      "connecting": "https://files.catbox.moe/bx0uyn.gif",
+      "detail": "https://files.catbox.moe/bx0uyn.gif"
+    },
     "code": "pbp7ga",
     "description": "Race Of The City, Racing With Roleplay, Pursuit Is Number 1, Build Your Dreams Car and Become The King Of Racing",
     "discord": "discord.gg/MFU6HUMJKF",
@@ -770,8 +860,9 @@
     "package": "ag",
     "poolsizes": "{\"AnimStore\":20480}",
     "proxy": [],
+    "public_feed": "asphaltstreetrp@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:40Z"
+    "scraped_at": "2026-06-13T03:27:18Z"
   },
   "pga5az5": {
     "banner": {
@@ -784,7 +875,6 @@
     "framework": "Qbox Project",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/pga5az5/1586838435.png",
-    "id": "pga5az5",
     "ip": "151.243.226.75:30120",
     "locale": "en-MY",
     "max_players": 64,
@@ -801,9 +891,13 @@
     "proxy": [],
     "public_feed": "lokality@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-10T01:12:29Z"
+    "scraped_at": "2026-06-13T03:27:20Z"
   },
   "plj9dy": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/ATYLy6hw5RLNA7qa1Aw2L/banner_orianimated.gif",
+      "detail": "https://r2.fivemanage.com/ATYLy6hw5RLNA7qa1Aw2L/banner_ori_detail.gif"
+    },
     "code": "plj9dy",
     "description": "Let's build your story in origami city",
     "discord": "https://discord.gg/origamirp",
@@ -829,10 +923,15 @@
         "label": "Local Gate"
       }
     ],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:42Z"
+    "scraped_at": "2026-06-13T03:27:22Z"
   },
   "qqa4y56": {
+    "banner": {
+      "connecting": "https://moxieroleplay.com/banner_connect.gif",
+      "detail": "https://moxieroleplay.com/benner_atas.gif"
+    },
     "code": "qqa4y56",
     "description": "FEEL THE #MOXIEXPERIENCE",
     "discord": "",
@@ -853,10 +952,15 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
+    "public_feed": "mxiexperience@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:44Z"
+    "scraped_at": "2026-06-13T03:27:24Z"
   },
   "r35px8": {
+    "banner": {
+      "connecting": "https://cdn-img.kotakitarp.id/serverlist/connecting2.gif",
+      "detail": "https://cdn-img.kotakitarp.id/serverlist/banner2.gif"
+    },
     "code": "r35px8",
     "description": "#5TILLKOTAKITA",
     "discord": "http://discord.gg/kotakita",
@@ -877,10 +981,15 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"netGameEvent\":400}",
     "proxy": [],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:45Z"
+    "scraped_at": "2026-06-13T03:27:26Z"
   },
   "r4ragg": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
     "code": "r4ragg",
     "description": "Mimpi yang terkubur bukan berarti mati, ia hanya menunggu keberanian untuk dibangunkan.",
     "discord": "https://discord.gg/4vucGZZket",
@@ -901,10 +1010,15 @@
     "package": "ag",
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:47Z"
+    "scraped_at": "2026-06-13T03:27:28Z"
   },
   "roek67": {
+    "banner": {
+      "connecting": "https://img.tutustk.dev/exe/exe_banner_connecting.gif",
+      "detail": "https://img.tutustk.dev/exe/exe_banner_detail.gif"
+    },
     "code": "roek67",
     "description": "Project Reborn",
     "discord": "",
@@ -925,13 +1039,14 @@
     "package": "pt",
     "poolsizes": "{\"AttachmentExtension\":430,\"CMoveObject\":600,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000,\"netGameEvent\":400}",
     "proxy": [],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:49Z"
+    "scraped_at": "2026-06-13T03:27:30Z"
   },
   "vagdok": {
     "banner": {
-      "connecting": "",
-      "detail": "bannerdanconnect.gif"
+      "connecting": "https://ninky.starstrix.my.id/assets/strix/kisahbaru-banner.png",
+      "detail": "https://ninky.starstrix.my.id/assets/strix/kisahbaru-banner.png"
     },
     "code": "vagdok",
     "description": "OPEN BADSIDE AND WHITELIST",
@@ -939,7 +1054,6 @@
     "framework": "ESX Legacy",
     "gamebuild": "2802",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/vagdok/-137382032.png",
-    "id": "vagdok",
     "ip": "103.42.116.156:31968",
     "locale": "id-ID",
     "max_players": 128,
@@ -952,19 +1066,23 @@
       "profile": "https://forum.cfx.re/u/Kod_Bryan"
     },
     "package": "au",
-    "poolsizes": "",
+    "poolsizes": "{\"AnimStore\":10000}",
     "proxy": [],
-    "public_feed": "",
+    "public_feed": "KISAHBARURP@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-10T01:08:35Z"
+    "scraped_at": "2026-06-13T03:27:32Z"
   },
   "vgaqm5": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/7ElxGZwUqqmNLFfeiR7tY/GP_-_Loading_Screen.gif",
+      "detail": "https://r2.fivemanage.com/7ElxGZwUqqmNLFfeiR7tY/GP_-_Banner_Screen.gif"
+    },
     "code": "vgaqm5",
     "description": "Prime Bersama Garuda",
     "discord": "https://discord.gg/garudaprime",
     "framework": "Qbox Project",
     "gamebuild": "2612",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/vgaqm5/928523166.png",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/vgaqm5/0.png",
     "ip": "49.128.187.58:30120",
     "locale": "id-ID",
     "max_players": 1000,
@@ -992,10 +1110,15 @@
         "label": "Internasional"
       }
     ],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:51Z"
+    "scraped_at": "2026-06-13T03:27:34Z"
   },
   "xj9l5r": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/tVJh6AIfBXqQ90uEGtu9p/bannerconnectingmery.gif",
+      "detail": "https://r2.fivemanage.com/tVJh6AIfBXqQ90uEGtu9p/bannerdetailmercy.gif"
+    },
     "code": "xj9l5r",
     "description": "Roleplay Should Be Fun",
     "discord": "https://discord.gg/2naDntKtBE",
@@ -1016,8 +1139,9 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480}",
     "proxy": [],
+    "public_feed": "mercyroleplay12@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:53Z"
+    "scraped_at": "2026-06-13T03:27:36Z"
   },
   "y9vvlo5": {
     "code": "y9vvlo5",
@@ -1042,6 +1166,10 @@
     "scraped_at": "2026-05-20T01:41:48Z"
   },
   "ymzj4j": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
     "code": "ymzj4j",
     "description": "Harapan untuk Indonesia",
     "discord": "https://discord.gg/hopeindonesia",
@@ -1062,10 +1190,15 @@
     "package": "pt",
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:57Z"
+    "scraped_at": "2026-06-13T03:27:40Z"
   },
   "z5oaqp": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/szUeuCpOtg66ioFsMCzTk/standard.gif",
+      "detail": "https://r2.fivemanage.com/szUeuCpOtg66ioFsMCzTk/standard.gif"
+    },
     "code": "z5oaqp",
     "description": "GOOD VIBES GOOD ROLEPLAY",
     "discord": "",
@@ -1074,7 +1207,7 @@
     "icon": "https://frontend.cfx-services.net/api/servers/icon/z5oaqp/-1154757285.png",
     "ip": "15.235.133.213:30120",
     "locale": "id-ID",
-    "max_players": 210,
+    "max_players": 128,
     "name": "SENJAKALA ROLEPLAY",
     "onesync": "true",
     "owner": {
@@ -1083,13 +1216,18 @@
       "name": "MaaunnStorexAyaMod",
       "profile": "https://forum.cfx.re/u/MaaunnStorexAyaMod"
     },
-    "package": "pt",
+    "package": "au",
     "poolsizes": "",
     "proxy": [],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:14:59Z"
+    "scraped_at": "2026-06-13T03:27:42Z"
   },
   "zrvmg4": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/3OwGU5Pi8eHUKktx99jNa/imebanner.gif",
+      "detail": "https://r2.fivemanage.com/3OwGU5Pi8eHUKktx99jNa/imebanner.gif"
+    },
     "code": "zrvmg4",
     "description": "iMe Roleplay",
     "discord": "https://discord.gg/USUpSJhZWw",
@@ -1119,10 +1257,15 @@
         "label": "International Gate"
       }
     ],
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:15:01Z"
+    "scraped_at": "2026-06-13T03:27:44Z"
   },
   "zxmea5": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/pMA0ekV3sPved8KVE0xBj/Connecting_Server_Banner_2.png",
+      "detail": "https://r2.fivemanage.com/pMA0ekV3sPved8KVE0xBj/ServerProfile_Banner_CKRP_1.png"
+    },
     "code": "zxmea5",
     "description": "SETIAP CERITA ADALAH BAGIAN DARI KITA",
     "discord": "https://discord.gg/ceritakitarp",
@@ -1143,7 +1286,8 @@
     "package": "pt",
     "poolsizes": "",
     "proxy": [],
+    "public_feed": "ceritakitaroleplay@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:15:02Z"
+    "scraped_at": "2026-06-13T03:27:45Z"
   }
 }
