@@ -1044,6 +1044,36 @@
     "pure_level": "0",
     "scraped_at": "2026-06-13T03:27:28Z"
   },
+  "rmae5q8": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "rmae5q8",
+    "description": "Economy | Gangs | Drugs | Los Santos | Business System | Exclusive | Indonesia",
+    "discord": "",
+    "framework": "QBCore",
+    "gamebuild": "3095",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/rmae5q8/-1538915693.png",
+    "id": "rmae5q8",
+    "ip": "151.243.226.145:30120",
+    "locale": "id-ID",
+    "max_players": 64,
+    "name": "🍁 Maple Story Roleplay Indonesia",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/maplestoryrpid/128/4966635_2.png",
+      "id": 16917987,
+      "name": "MapleStoryRPID",
+      "profile": "https://forum.cfx.re/u/MapleStoryRPID"
+    },
+    "package": "ag",
+    "poolsizes": "{\"AnimStore\":20480,\"Building\":500,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"StaticBounds\":5000,\"TxdStore\":26000}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-06-20T15:02:29Z"
+  },
   "roek67": {
     "banner": {
       "connecting": "https://img.tutustk.dev/exe/exe_banner_connecting.gif",
