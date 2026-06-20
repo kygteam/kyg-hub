@@ -139,6 +139,36 @@
     "pure_level": "0",
     "scraped_at": "2026-06-13T03:26:30Z"
   },
+  "6my7dp4": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "6my7dp4",
+    "description": "Official Server of Rajadewa State Roleplay",
+    "discord": "",
+    "framework": "Qbox Project",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/6my7dp4/0.png",
+    "id": "6my7dp4",
+    "ip": "203.175.125.212:30120",
+    "locale": "id-ID",
+    "max_players": 128,
+    "name": "RAJADEWA STATE ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/langit_rajadewa/128/4583380_2.png",
+      "id": 18961190,
+      "name": "Langit_Rajadewa",
+      "profile": "https://forum.cfx.re/u/Langit_Rajadewa"
+    },
+    "package": "au",
+    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"netGameEvent\":400}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-06-20T08:55:16Z"
+  },
   "7qkjvr": {
     "banner": {
       "connecting": "https://r2.fivemanage.com/2qDyCVpSb60vXuEFZ63PE/1872X298-ED.jpg",
