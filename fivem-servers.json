@@ -52,6 +52,36 @@
     "pure_level": "0",
     "scraped_at": "2026-06-13T03:26:24Z"
   },
+  "3ygjl5y": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/HTUevzeM5STZNezql3OsE/banner_connecting.gif",
+      "detail": "https://r2.fivemanage.com/HTUevzeM5STZNezql3OsE/banner_detail.gif"
+    },
+    "code": "3ygjl5y",
+    "description": "POWERED BY ASE GROUP COMPANY",
+    "discord": "https://discord.gg/aserp",
+    "framework": "Qbox Project",
+    "gamebuild": "3095",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/3ygjl5y/-207341467.png",
+    "id": "3ygjl5y",
+    "ip": "31.58.143.12",
+    "locale": "id-ID",
+    "max_players": 2000,
+    "name": "ASE STATE ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/asestate/128/6465473_2.png",
+      "id": 18900366,
+      "name": "Asestate",
+      "profile": "https://forum.cfx.re/u/Asestate"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-06-24T03:35:39Z"
+  },
   "55kd96": {
     "banner": {
       "connecting": "https://kampoeng.my.id/imageingame/connect.png",
