@@ -1164,15 +1164,15 @@
   },
   "vgaqm5": {
     "banner": {
-      "connecting": "https://r2.fivemanage.com/7ElxGZwUqqmNLFfeiR7tY/GP_-_Loading_Screen.gif",
-      "detail": "https://r2.fivemanage.com/7ElxGZwUqqmNLFfeiR7tY/GP_-_Banner_Screen.gif"
+      "connecting": "https://r2.fivemanage.com/7G09CHGGrHzXExaewC5Z6/foto_loading_screen_dan_logo/GP_-_Loading_Screen.gif",
+      "detail": "https://r2.fivemanage.com/7G09CHGGrHzXExaewC5Z6/foto_loading_screen_dan_logo/GP_-_Banner_Screen.gif"
     },
     "code": "vgaqm5",
     "description": "Prime Bersama Garuda",
     "discord": "https://discord.gg/garudaprime",
     "framework": "Qbox Project",
     "gamebuild": "2612",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/vgaqm5/0.png",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/vgaqm5/299692501.png",
     "ip": "49.128.187.58:30120",
     "locale": "id-ID",
     "max_players": 1000,
@@ -1202,7 +1202,7 @@
     ],
     "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-06-13T03:27:34Z"
+    "scraped_at": "2026-06-24T15:46:24Z"
   },
   "xj9l5r": {
     "banner": {
