@@ -1,13 +1,17 @@
 {
-    "kyogo_dock": {
-        "version": "0.1.1",
-        "notes": "v0.1.1 Test - Fixed database initialization freeze, optimized phpMyAdmin automated routing, added System Tray minification, and implemented rotative logging.",
-        "pub_date": "2026-05-17T21:30:00Z",
-        "platforms": {
-            "windows-x86_64": {
-                "signature": "",
-                "url": ""
-            }
-        }
-    }
+  "kyofive_tools_v2": {
+    "notes": "feat about app",
+    "pub_date": "2026-06-11T14:03:19Z",
+    "version": "0.1.5"
+  },
+  "kyogo_desk": {
+    "notes": "Implement disk cleanup functionality with scanning and purging capabilities + Add additional buttons for Discord activity and improve input field accessibility",
+    "pub_date": "2026-05-24T02:20:30Z",
+    "version": "0.1.1"
+  },
+  "kyogo_dock": {
+    "notes": "update versioning and enhance version response structures for Apache, PHP, MySQL, and FXServer",
+    "pub_date": "2026-05-23T16:12:58Z",
+    "version": "0.1.2"
+  }
 }
