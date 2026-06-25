@@ -1,0 +1,7 @@
+{
+    "cfx": {
+        "get_artifacts": "https://changelogs-live.fivem.net/api/changelog/versions/win32/server",
+        "get_server_icon": "https://frontend.cfx-services.net/api/servers/icon/{server_code}/{icon_version}.png",
+        "get_server_detail": "https://frontend.cfx-services.net/api/servers/single/{server_code}"
+    }
+}
