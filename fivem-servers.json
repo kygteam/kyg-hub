@@ -23,35 +23,6 @@
     "pure_level": "0",
     "scraped_at": "2026-06-06T04:13:55Z"
   },
-  "6gk4e4": {
-    "banner": {
-      "connecting": "https://i.ibb.co.com/XZhHX7GN/connecting.gif",
-      "detail": "https://i.ibb.co.com/gZnqLy52/banner.png"
-    },
-    "code": "6gk4e4",
-    "description": "Dream Big Live Twice",
-    "discord": "https://discord.gg/satumimpi",
-    "framework": "Standalone",
-    "gamebuild": "2612",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/3e3gdb/142087119.png",
-    "ip": "49.128.187.46:30120",
-    "locale": "id-ID",
-    "max_players": 1000,
-    "name": "Satu Mimpi",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/satumimpiroleplay/128/4966244_2.png",
-      "id": 17836221,
-      "name": "SatuMimpiRoleplay",
-      "profile": "https://forum.cfx.re/u/SatuMimpiRoleplay"
-    },
-    "package": "pt",
-    "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
-    "proxy": [],
-    "public_feed": "axxonz@mastodon.social",
-    "pure_level": "0",
-    "scraped_at": "2026-06-13T03:26:24Z"
-  },
   "3ygjl5y": {
     "banner": {
       "connecting": "https://r2.fivemanage.com/HTUevzeM5STZNezql3OsE/banner_connecting.gif",
@@ -139,6 +110,35 @@
     "public_feed": "",
     "pure_level": "0",
     "scraped_at": "2026-06-13T03:26:28Z"
+  },
+  "6gk4e4": {
+    "banner": {
+      "connecting": "https://i.ibb.co.com/XZhHX7GN/connecting.gif",
+      "detail": "https://i.ibb.co.com/gZnqLy52/banner.png"
+    },
+    "code": "6gk4e4",
+    "description": "Dream Big Live Twice",
+    "discord": "https://discord.gg/satumimpi",
+    "framework": "Standalone",
+    "gamebuild": "2612",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/3e3gdb/142087119.png",
+    "ip": "49.128.187.46:30120",
+    "locale": "id-ID",
+    "max_players": 1000,
+    "name": "Satu Mimpi",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/satumimpiroleplay/128/4966244_2.png",
+      "id": 17836221,
+      "name": "SatuMimpiRoleplay",
+      "profile": "https://forum.cfx.re/u/SatuMimpiRoleplay"
+    },
+    "package": "pt",
+    "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
+    "proxy": [],
+    "public_feed": "axxonz@mastodon.social",
+    "pure_level": "0",
+    "scraped_at": "2026-06-13T03:26:24Z"
   },
   "6j4z5j": {
     "banner": {
@@ -1103,6 +1103,36 @@
     "public_feed": "",
     "pure_level": "0",
     "scraped_at": "2026-06-20T15:02:29Z"
+  },
+  "rmavmzx": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "rmavmzx",
+    "description": "TEMAN MAIN PROJECT",
+    "discord": "https://discord.gg/VjnjMXxurf",
+    "framework": "QBCore",
+    "gamebuild": "2944",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/rmavmzx/-2012019943.png",
+    "id": "rmavmzx",
+    "ip": "204.10.193.53:30120",
+    "locale": "id-ID",
+    "max_players": 128,
+    "name": "TEMAN MAIN ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/temanmain_roleplay/128/6534654_2.png",
+      "id": 14169929,
+      "name": "TEMANMAIN_ROLEPLAY",
+      "profile": "https://forum.cfx.re/u/TEMANMAIN_ROLEPLAY"
+    },
+    "package": "au",
+    "poolsizes": "{\"TxdStore\":6000}",
+    "proxy": [],
+    "public_feed": "TemanMain@mastodon.social",
+    "pure_level": "0",
+    "scraped_at": "2026-07-14T16:20:34Z"
   },
   "roek67": {
     "banner": {
