@@ -1,4 +1,42 @@
 {
     "redm": {},
-    "fivem": {}
+    "fivem": {
+        "aserp": {
+            "ip": "https://play.asestaterp.com/",
+            "code": "3ygjl5y",
+            "name": "ASE STATE ROLEPLAY",
+            "tags": "#ANAKNYONYABOSS, #ASESTATEROLEPLAY, #ASESTATERP, roleplay, indonesia, indo",
+            "icon": "https://frontend.cfx-services.net/api/servers/icon/3ygjl5y/-1780357544.png",
+            "gates": [],
+            "owner": {
+                "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/asestate/128/6465473_2.png",
+                "id": 18900366,
+                "name": "Asestate",
+                "profile": "https://forum.cfx.re/u/Asestate"
+            },
+            "banner": {
+                "connecting": "https://assets.asestaterp.com/assets/banner_connecting.gif",
+                "detail": "https://assets.asestaterp.com/assets/banner_detail.gif"
+            },
+            "social": {
+                "tiktok": "https://www.tiktok.com/@asestate.roleplay",
+                "discord": "https://discord.gg/aserp",
+                "youtube": "https://www.youtube.com/@ASESTATERP",
+                "instagram": "https://www.instagram.com/asestaterp/",
+                "public_feed": "asestaterp@mastodon.social"
+            },
+            "details": {
+                "locale": "id-ID",
+                "onesync": "true",
+                "package": { "code": "pt", "name": "Platinum" },
+                "framework": "Qbox Project",
+                "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
+                "gamebuild": "3095",
+                "pure_level": { "type": "0", "description": "You can freely use any custom graphics (like NVE or QuantV), weapon sounds, custom crosshairs, and visual kill effects." },
+                "max_players": 2000
+            },
+            "description": "City with Realistic Roleplay. Three Culture One State. POWERED BY ASE GROUP COMPANY",
+            "updated_at": "2026-07-24T13:24:39Z"
+        }
+    }
 }
