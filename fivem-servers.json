@@ -933,6 +933,36 @@
     "pure_level": "0",
     "scraped_at": "2026-07-14T16:22:22Z"
   },
+  "oaxkl8x": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "oaxkl8x",
+    "description": "Bring Back The Memories",
+    "discord": "",
+    "framework": "Standalone",
+    "gamebuild": "2612",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/oaxkl8x/-220937293.png",
+    "id": "oaxkl8x",
+    "ip": "204.10.193.109:30120",
+    "locale": "en-ID",
+    "max_players": 25,
+    "name": "REWIND ROLEPLAY | Bring Back The Memories",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/rewindrp26/128/6657106_2.png",
+      "id": 19367316,
+      "name": "RewindRP26",
+      "profile": "https://forum.cfx.re/u/RewindRP26"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-07-29T10:55:09Z"
+  },
   "pbp7ga": {
     "banner": {
       "connecting": "https://files.catbox.moe/bx0uyn.gif",
