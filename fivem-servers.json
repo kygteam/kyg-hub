@@ -1300,6 +1300,36 @@
     "pure_level": "0",
     "scraped_at": "2026-07-14T16:22:46Z"
   },
+  "vq3m54e": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "vq3m54e",
+    "description": "ARENA INDONESIA",
+    "discord": "",
+    "framework": "Ox Core",
+    "gamebuild": "3095",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/vq3m54e/-2134970416.png",
+    "id": "vq3m54e",
+    "ip": "151.243.226.141:30120",
+    "locale": "id-ID",
+    "max_players": 969,
+    "name": "KERTA969A",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/morriss969/128/6301339_2.png",
+      "id": 14433652,
+      "name": "Morriss969",
+      "profile": "https://forum.cfx.re/u/Morriss969"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-08-03T11:22:17Z"
+  },
   "xj9l5r": {
     "banner": {
       "connecting": "https://r2.fivemanage.com/tVJh6AIfBXqQ90uEGtu9p/bannerconnectingmery.gif",
