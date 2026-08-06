@@ -81,6 +81,36 @@
     "pure_level": "0",
     "scraped_at": "2026-07-14T16:21:17Z"
   },
+  "5oovv4r": {
+    "banner": {
+      "connecting": "https://imgproxy.cfx.re/-4PfnB6HDtG7A6JFB6vsaCQVdDBGbiS4e9i2CB1eHpY/f:webp/q:70/aHR0cHM6Ly9tZWRpYS5kaXNjb3JkYXBwLm5ldC9hdHRhY2htZW50cy8xMjk3MTMzNjc2NTU1MTQxMTU0LzEzMTQxNzY1MzMxNjE1NzQ0NzAvZnJlZXBpa19lZGl0X1RleHR1cmVkLWhhbmRkcmF3bi1sb29rLXZpc2libGUtc29mdC1wZW5jaWwtc3Ryb2tlLmpwZz9leD02NzU2YzY0NSZpcz02NzU1NzRjNSZobT01MWMyMjI4NmI2YThiZTUyM2VlZmUwOGRmOTk2NTUxNzI2ZDBlNThmNjkzYmM1YjhlM2RhZTE2NzgzN2Y3Y2M1Jj0mZm9ybWF0PXdlYnAmd2lkdGg9MTEzMiZoZWlnaHQ9NjQ2.webp",
+      "detail": "https://imgproxy.cfx.re/hrmN5Zx-YzzoeCAGlZK9JFnJN8CYjPUIgEYBHdMALLg/f:webp/q:70/aHR0cHM6Ly9tZWRpYS5kaXNjb3JkYXBwLm5ldC9hdHRhY2htZW50cy8xMzE0OTgxNjc1ODM4NjAzMjk0LzEzMTUyOTc3ODE0MTc1MTMwMDAvSklORy1BUkVOQS05Nl8xLnBuZz9leD02NzU2ZTYwNCZpcz02NzU1OTQ4NCZobT1kYjc4ZjkyOWQyN2FkNDRhMjgwZjYwMmZjMTlhMWFiNzhmZTBmMzc3ZTk0MmU1NGY5ZTEzY2RjZDlkMzUzNjdjJj0mZm9ybWF0PXdlYnAmcXVhbGl0eT1sb3NzbGVzcw.webp"
+    },
+    "code": "5oovv4r",
+    "description": "MEDAN TEMPUR VERSI ARENA",
+    "discord": "",
+    "framework": "ESX Legacy",
+    "gamebuild": "3407",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/5oovv4r/1064580742.png",
+    "id": "5oovv4r",
+    "ip": "204.10.193.102:30120",
+    "locale": "id-ID",
+    "max_players": 600,
+    "name": "JING",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/daanujs/128/3311139_2.png",
+      "id": 9004882,
+      "name": "daanujs",
+      "profile": "https://forum.cfx.re/u/daanujs"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"Building\":500,\"CDoorSyncData\":20,\"CMoveObject\":600,\"CNetObjDoor\":20,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":30000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"fwDynamicArchetypeComponent\":30000,\"netGameEvent\":400}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-08-06T04:59:41Z"
+  },
   "5oyegr7": {
     "banner": {
       "connecting": "",
