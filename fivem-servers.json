@@ -393,25 +393,29 @@
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [
       {
-        "endpoint": "49.128.187.86",
+        "endpoint": "main.rumahkitarp.id",
         "label": "Gate 1"
       },
       {
-        "endpoint": "103.127.132.56",
-        "label": "Gate 2"
+        "endpoint": "jkt.rumahkitarp.id",
+        "label": "Gate 2 (JKT)"
       },
       {
-        "endpoint": "210.247.242.86:30120",
-        "label": "Gate 3"
+        "endpoint": "sg.rumahkitarp.id",
+        "label": "Gate 3 (SG)"
       },
       {
-        "endpoint": "38.47.176.167",
-        "label": "Gate 4"
+        "endpoint": "sg2.rumahkitarp.id",
+        "label": "Gate 4 (SG 2)"
+      },
+      {
+        "endpoint": "inter.rumahkitarp.id",
+        "label": "Gate 5 (MY/SG Only)"
       }
     ],
     "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-08-12T14:20:53Z"
+    "scraped_at": "2026-08-21T11:18:28Z"
   },
   "bjyd8b": {
     "banner": {
