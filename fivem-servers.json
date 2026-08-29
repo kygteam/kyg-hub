@@ -427,11 +427,11 @@
     "discord": "",
     "framework": "QBCore",
     "gamebuild": "2612",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/bjyd8b/92162707.png",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/bjyd8b/155633711.png",
     "ip": "49.128.187.178:30120",
     "locale": "id-ID",
-    "max_players": 8,
-    "name": "Town Glorix Roleplay",
+    "max_players": 500,
+    "name": "Seven Glory Roleplay",
     "onesync": "true",
     "owner": {
       "avatar": "https://avatars.discourse.org/v4/letter/g/7933a0/128.png",
@@ -439,12 +439,12 @@
       "name": "glorixtownrp",
       "profile": "https://forum.cfx.re/u/glorixtownrp"
     },
-    "package": "",
+    "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
     "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-07-14T16:21:41Z"
+    "scraped_at": "2026-08-29T05:55:31Z"
   },
   "da5dzj": {
     "banner": {
