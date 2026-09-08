@@ -441,10 +441,31 @@
     },
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
-    "proxy": [],
+    "proxy": [
+      {
+        "endpoint": "vii-main.seekertech.xyz",
+        "label": "Gate 1"
+      },
+      {
+        "endpoint": "vii-main2.seekertech.xyz",
+        "label": "Gate 2"
+      },
+      {
+        "endpoint": "vii-main3.seekertech.xyz",
+        "label": "Gate 3"
+      },
+      {
+        "endpoint": "vii-alt.seekertech.xyz",
+        "label": "Alternative 1"
+      },
+      {
+        "endpoint": "vii-alt2.seekertech.xyz",
+        "label": "Alternative 2"
+      }
+    ],
     "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-08-29T05:55:31Z"
+    "scraped_at": "2026-09-08T23:30:33Z"
   },
   "da5dzj": {
     "banner": {
