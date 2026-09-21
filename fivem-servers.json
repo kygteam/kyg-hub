@@ -908,6 +908,41 @@
     "pure_level": "1",
     "scraped_at": "2026-06-13T03:27:12Z"
   },
+  "lvqzgv": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "lvqzgv",
+    "description": "Authentic Roleplay - QBox on FiveM Enhanced",
+    "discord": "https://discord.gg/Umke7tZ5aU",
+    "framework": "Qbox Project",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/lvqzgv/143287088.png",
+    "id": "lvqzgv",
+    "ip": "202.134.242.150:30120",
+    "locale": "id-ID",
+    "max_players": 48,
+    "name": "Authentic RP",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/kmdy_dh/128/4591019_2.png",
+      "id": 18591908,
+      "name": "kmdy_dh",
+      "profile": "https://forum.cfx.re/u/kmdy_dh"
+    },
+    "package": "",
+    "poolsizes": "{\"StaticBounds\":5000}",
+    "proxy": [
+      {
+        "endpoint": "authenticrp.duckdns.org",
+        "label": "..."
+      }
+    ],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-09-21T12:40:00Z"
+  },
   "mez5p7": {
     "banner": {
       "connecting": "https://i.ibb.co.com/DwJtD1g/banner-connect-kb.gif",
