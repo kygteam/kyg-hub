@@ -1040,6 +1040,36 @@
     "pure_level": "0",
     "scraped_at": "2026-07-29T10:55:09Z"
   },
+  "oqmkgr": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "oqmkgr",
+    "description": "GOLDEN STATE ROLEPLAY",
+    "discord": "",
+    "framework": "Qbox Project",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/oqmkgr/12038805.png",
+    "id": "oqmkgr",
+    "ip": "103.170.217.25:2026",
+    "locale": "id_ID",
+    "max_players": 64,
+    "name": "GOLDEN STATE ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/gs_roleplay/128/4966642_2.png",
+      "id": 17071208,
+      "name": "GS_Roleplay",
+      "profile": "https://forum.cfx.re/u/GS_Roleplay"
+    },
+    "package": "ag",
+    "poolsizes": "",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-09-25T11:13:43Z"
+  },
   "pbp7ga": {
     "banner": {
       "connecting": "https://files.catbox.moe/bx0uyn.gif",
