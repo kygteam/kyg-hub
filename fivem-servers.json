@@ -1496,6 +1496,41 @@
     "pure_level": "0",
     "scraped_at": "2026-09-07T11:02:26Z"
   },
+  "y999r8y": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "y999r8y",
+    "description": "Terkadang kita terlalu sibuk menggembok pagar karena takut kehilangan, sampai lupa kalau di dalam rumah sebenarnya tidak ada apa-apa.",
+    "discord": "https://discord.gg/qWFmHA9dys",
+    "framework": "ESX Legacy",
+    "gamebuild": "3095",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/y999r8y/0.png",
+    "id": "y999r8y",
+    "ip": "45.198.155.223:30120",
+    "locale": "en-ID",
+    "max_players": 8,
+    "name": "Reborn Roleplay | Alpha Testing",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/aldiyudistira/128/5919512_2.png",
+      "id": 17875263,
+      "name": "aldiyudistira",
+      "profile": "https://forum.cfx.re/u/aldiyudistira"
+    },
+    "package": "",
+    "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"TxdStore\":26000}",
+    "proxy": [
+      {
+        "endpoint": "45.198.155.223",
+        "label": "Local Gate"
+      }
+    ],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-09-26T23:43:39Z"
+  },
   "y9vvlo5": {
     "code": "y9vvlo5",
     "description": "Kami Berdiri Digempuran Server Artis",
