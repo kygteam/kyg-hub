@@ -879,6 +879,36 @@
     "pure_level": "0",
     "scraped_at": "2026-07-14T16:22:16Z"
   },
+  "lq35k4": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/ATYLy6hw5RLNA7qa1Aw2L/Banner-fivem-bintang.gif",
+      "detail": "https://r2.fivemanage.com/ATYLy6hw5RLNA7qa1Aw2L/Banner-connect-bintang.gif"
+    },
+    "code": "lq35k4",
+    "description": "Jadilah Bintang Dalam Ceritamu",
+    "discord": "https://discord.gg/KT59zdZm3W",
+    "framework": "ESX Legacy",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/lq35k4/-522742688.png",
+    "id": "lq35k4",
+    "ip": "104.234.180.228:30120",
+    "locale": "id-ID",
+    "max_players": 350,
+    "name": "BINTANG ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/bintangroleplay/128/6746481_2.png",
+      "id": 17468899,
+      "name": "bintangroleplay",
+      "profile": "https://forum.cfx.re/u/bintangroleplay"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":10000,\"TxdStore\":26000}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-09-28T11:34:03Z"
+  },
   "lqzmjv": {
     "banner": {
       "connecting": "https://bersamav2.com/downloads/v2banner.gif",
