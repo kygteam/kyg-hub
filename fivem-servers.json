@@ -314,6 +314,36 @@
     "pure_level": "1",
     "scraped_at": "2026-07-14T16:21:30Z"
   },
+  "87k87b": {
+    "banner": {
+      "connecting": "",
+      "detail": "https://i.ibb.co/S44kRNkn/ban.png"
+    },
+    "code": "87k87b",
+    "description": "nteamdev.tebex.io - NTeam Development is a platform offering resources for the FiveM community, including maps, scripts, and other game assets.",
+    "discord": "",
+    "framework": "Standalone",
+    "gamebuild": "2802",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/87k87b/500511957.png",
+    "id": "87k87b",
+    "ip": "40.160.136.11:30120",
+    "locale": "root-AQ",
+    "max_players": 15,
+    "name": "NTeam Showcase Server",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/nteamdevelopment/128/3619496_2.png",
+      "id": 147138,
+      "name": "NTeamDevelopment",
+      "profile": "https://forum.cfx.re/u/NTeamDevelopment"
+    },
+    "package": "",
+    "poolsizes": "",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-09-29T08:19:57Z"
+  },
   "8r5lp3": {
     "code": "8r5lp3",
     "description": "Execute your own story—this is your prime time. Move with purpose, rise in motion, and take on the world with confidence",
