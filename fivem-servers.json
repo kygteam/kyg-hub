@@ -344,6 +344,36 @@
     "pure_level": "0",
     "scraped_at": "2026-09-29T08:19:57Z"
   },
+  "8ee7bdm": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "8ee7bdm",
+    "description": "Jawara ID",
+    "discord": "",
+    "framework": "Qbox Project",
+    "gamebuild": "3095",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/8ee7bdm/-2093523011.png",
+    "id": "8ee7bdm",
+    "ip": "104.234.180.152:1007",
+    "locale": "ID-id",
+    "max_players": 600,
+    "name": "JAWARA ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/avenlo/128/6779267_2.png",
+      "id": 7097869,
+      "name": "Avenlo",
+      "profile": "https://forum.cfx.re/u/Avenlo"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-10-03T12:41:24Z"
+  },
   "8r5lp3": {
     "code": "8r5lp3",
     "description": "Execute your own story—this is your prime time. Move with purpose, rise in motion, and take on the world with confidence",
