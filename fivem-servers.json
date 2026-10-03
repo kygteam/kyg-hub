@@ -52,6 +52,36 @@
     "pure_level": "0",
     "scraped_at": "2026-07-14T16:21:15Z"
   },
+  "4ggjqg9": {
+    "banner": {
+      "connecting": "https://img.narasiroleplay.id/img/CONNECTING_SERVER.gif",
+      "detail": "https://img.narasiroleplay.id/img/BANER_1865_X_108.gif"
+    },
+    "code": "4ggjqg9",
+    "description": "Your Time. Your Story. Your Narrative.",
+    "discord": "",
+    "framework": "Standalone",
+    "gamebuild": "2612",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/4ggjqg9/-139741701.png",
+    "id": "4ggjqg9",
+    "ip": "49.128.187.86:30120",
+    "locale": "id-ID",
+    "max_players": 1036,
+    "name": "NARASI ROLEPLAY INDONESIA",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/narasi/128/4584679_2.png",
+      "id": 18864287,
+      "name": "narasi",
+      "profile": "https://forum.cfx.re/u/narasi"
+    },
+    "package": "pt",
+    "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-10-03T21:26:14Z"
+  },
   "55kd96": {
     "banner": {
       "connecting": "https://kampoeng.my.id/imageingame/connect.png",
