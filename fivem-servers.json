@@ -595,6 +595,36 @@
     "pure_level": "0",
     "scraped_at": "2026-07-14T16:21:50Z"
   },
+  "e66oj6p": {
+    "banner": {
+      "connecting": "https://cdn.jg-rp.com/banner_ragemp.webp",
+      "detail": "https://cdn.jg-rp.com/banner_ragemp.webp"
+    },
+    "code": "e66oj6p",
+    "description": "Indonesian Text-Based Roleplay by Jogjagamers Community est. 2009",
+    "discord": "discord.gg/W8ApTVX",
+    "framework": "Standalone",
+    "gamebuild": "3751",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/e66oj6p/-2048011142.png",
+    "id": "e66oj6p",
+    "ip": "104.234.180.158:30120",
+    "locale": "id-ID",
+    "max_players": 128,
+    "name": "Jogjagamers V Roleplay",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/tianmetal/128/6528622_2.png",
+      "id": 19116398,
+      "name": "tianmetal",
+      "profile": "https://forum.cfx.re/u/tianmetal"
+    },
+    "package": "au",
+    "poolsizes": "{\"AnimStore\":4000}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-10-03T21:26:57Z"
+  },
   "e6e6lmp": {
     "code": "e6e6lmp",
     "description": "OFFICIAL RELEASE GLOBAL",
