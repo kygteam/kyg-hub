@@ -1778,6 +1778,36 @@
     "pure_level": "0",
     "scraped_at": "2026-06-13T03:27:42Z"
   },
+  "zjjmbx5": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/x30Ad6781HY02tG4lFTvA/84zkhic.gif",
+      "detail": "https://r2.fivemanage.com/x30Ad6781HY02tG4lFTvA/84zkhic.gif"
+    },
+    "code": "zjjmbx5",
+    "description": "A new story begins in Ophelia Roleplay. Your story starts here.",
+    "discord": "https://discord.gg/opheliarp",
+    "framework": "QBCore",
+    "gamebuild": "3095",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/zjjmbx5/-2117100860.png",
+    "id": "zjjmbx5",
+    "ip": "104.234.180.241:30120",
+    "locale": "id-ID",
+    "max_players": 1000,
+    "name": "OPHELIA ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/opheliaroleplay/128/6905019_2.png",
+      "id": 6027582,
+      "name": "OPHELIAROLEPLAY",
+      "profile": "https://forum.cfx.re/u/OPHELIAROLEPLAY"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
+    "proxy": [],
+    "public_feed": "opheliaroleplay@fivem.social",
+    "pure_level": "0",
+    "scraped_at": "2026-10-03T21:27:35Z"
+  },
   "zrvmg4": {
     "banner": {
       "connecting": "https://r2.fivemanage.com/3OwGU5Pi8eHUKktx99jNa/imebanner.gif",
