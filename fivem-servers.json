@@ -600,40 +600,6 @@
     "pure_level": "0",
     "scraped_at": "2026-10-14T12:21:07Z"
   },
-  "gad5d7z": {
-    "banner": {
-      "connecting": "https://raw.githubusercontent.com/ItsMeD4N/server-image/main/Connecting.gif",
-      "detail": "https://raw.githubusercontent.com/ItsMeD4N/server-image/main/Banner.gif"
-    },
-    "code": "gad5d7z",
-    "description": "MENGHARGAI & MENGHORMATI",
-    "discord": "https://discord.gg/kisahnusantararoleplay",
-    "framework": "Standalone",
-    "gamebuild": "3788",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/gad5d7z/1411448061.png",
-    "ip": "49.128.187.82:30120",
-    "locale": "id-ID",
-    "max_players": 500,
-    "name": "KISAH NUSANTARA ROLEPLAY INDONESIA",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://avatars.discourse.org/v4/letter/k/7933a0/128.png",
-      "id": 17168377,
-      "name": "kisahnusantara.rp",
-      "profile": "https://forum.cfx.re/u/kisahnusantara.rp"
-    },
-    "package": "pt",
-    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"Building\":500,\"CDoorSyncData\":20,\"CMoveObject\":600,\"CNetObjDoor\":20,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":30000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"fwDynamicArchetypeComponent\":30000,\"netGameEvent\":400}",
-    "proxy": [
-      {
-        "endpoint": "main.kisahnusantararp.com",
-        "label": "Main 1"
-      }
-    ],
-    "public_feed": "",
-    "pure_level": "0",
-    "scraped_at": "2026-07-14T16:21:58Z"
-  },
   "gadxybq": {
     "banner": {
       "connecting": "",
