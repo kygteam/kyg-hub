@@ -746,35 +746,6 @@
     "pure_level": "0",
     "scraped_at": "2026-10-14T12:22:48Z"
   },
-  "lke7l5": {
-    "banner": {
-      "connecting": "https://fdata.minecuta.com/image/banner-vr-cnc.gif",
-      "detail": "https://fdata.minecuta.com/image/banner-vr-dtl.gif"
-    },
-    "code": "lke7l5",
-    "description": "^3Create Your own ^5Stars^0 And ^2Story",
-    "discord": "https://discord.gg/ffAu32P5JE",
-    "framework": "Standalone",
-    "gamebuild": "3258",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/lke7l5/1342393692.png",
-    "ip": "160.250.227.12:30120",
-    "locale": "id-ID",
-    "max_players": 8,
-    "name": "VALORA ROLEPLAY",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://avatars.discourse.org/v4/letter/d/7933a0/128.png",
-      "id": 1734692,
-      "name": "devSTrixx",
-      "profile": "https://forum.cfx.re/u/devSTrixx"
-    },
-    "package": "",
-    "poolsizes": "",
-    "proxy": [],
-    "public_feed": "",
-    "pure_level": "0",
-    "scraped_at": "2026-07-14T16:22:16Z"
-  },
   "lq35k4": {
     "banner": {
       "connecting": "https://r2.fivemanage.com/ATYLy6hw5RLNA7qa1Aw2L/Banner-fivem-bintang.gif",
