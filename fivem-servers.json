@@ -1046,35 +1046,6 @@
     "pure_level": "0",
     "scraped_at": "2026-10-14T12:24:21Z"
   },
-  "rmavmzx": {
-    "banner": {
-      "connecting": "",
-      "detail": ""
-    },
-    "code": "rmavmzx",
-    "description": "TEMAN MAIN PROJECT",
-    "discord": "https://discord.gg/VjnjMXxurf",
-    "framework": "QBCore",
-    "gamebuild": "2944",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/rmavmzx/-2012019943.png",
-    "ip": "204.10.193.53:30120",
-    "locale": "id-ID",
-    "max_players": 128,
-    "name": "TEMAN MAIN ROLEPLAY",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/temanmain_roleplay/128/6534654_2.png",
-      "id": 14169929,
-      "name": "TEMANMAIN_ROLEPLAY",
-      "profile": "https://forum.cfx.re/u/TEMANMAIN_ROLEPLAY"
-    },
-    "package": "au",
-    "poolsizes": "{\"TxdStore\":6000}",
-    "proxy": [],
-    "public_feed": "TemanMain@mastodon.social",
-    "pure_level": "0",
-    "scraped_at": "2026-07-14T16:22:40Z"
-  },
   "roek67": {
     "banner": {
       "connecting": "https://img.tutustk.dev/exe/exe_banner_connecting.gif",
