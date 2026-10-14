@@ -817,15 +817,15 @@
       "detail": ""
     },
     "code": "o47de7",
-    "description": "Indonesian culture open badside & whitelist",
+    "description": "Tempat terbaik untuk memulai cerita baru. Join the vibe !",
     "discord": "https://discord.gg/DPMmGbKERp",
     "framework": "Qbox Project",
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/o47de7/1106429007.png",
     "ip": "103.42.116.73:30120",
     "locale": "id-ID",
-    "max_players": 100,
-    "name": "KOTA INDAH INDONESIA",
+    "max_players": 128,
+    "name": "KOTA INDAH INDONESIA 2.0",
     "onesync": "true",
     "owner": {
       "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/kotinrp/128/6352719_2.png",
@@ -838,7 +838,7 @@
     "proxy": [],
     "public_feed": "kotin@fivem.social",
     "pure_level": "0",
-    "scraped_at": "2026-07-14T16:22:22Z"
+    "scraped_at": "2026-10-14T12:23:19Z"
   },
   "oaxkl8x": {
     "banner": {
