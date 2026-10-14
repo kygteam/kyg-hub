@@ -811,44 +811,6 @@
     "pure_level": "0",
     "scraped_at": "2026-09-21T12:40:00Z"
   },
-  "mez5p7": {
-    "banner": {
-      "connecting": "https://i.ibb.co.com/DwJtD1g/banner-connect-kb.gif",
-      "detail": "https://i.ibb.co.com/2P2Yc2n/banner-kb.gif"
-    },
-    "code": "mez5p7",
-    "description": "let's Make a good community",
-    "discord": "https://discord.gg/kotabaru",
-    "framework": "Qbox Project",
-    "gamebuild": "3258",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/mez5p7/1163679694.png",
-    "ip": "51.79.201.132:10120",
-    "locale": "id-ID",
-    "max_players": 128,
-    "name": "KOTABARU ROLEPLAY",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/kotabaruroleplay/128/4429463_2.png",
-      "id": 5197007,
-      "name": "kotabaruroleplay",
-      "profile": "https://forum.cfx.re/u/kotabaruroleplay"
-    },
-    "package": "pt",
-    "poolsizes": "{\"AnimStore\":10000}",
-    "proxy": [
-      {
-        "endpoint": "utama.kotabaruroleplay.com",
-        "label": "Main"
-      },
-      {
-        "endpoint": "inter.kotabaruroleplay.com",
-        "label": "International"
-      }
-    ],
-    "public_feed": "Kotabaru@mastodon.social",
-    "pure_level": "0",
-    "scraped_at": "2026-07-14T16:22:20Z"
-  },
   "o47de7": {
     "banner": {
       "connecting": "",
