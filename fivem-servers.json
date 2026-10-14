@@ -410,30 +410,6 @@
     "pure_level": "0",
     "scraped_at": "2026-10-03T12:41:24Z"
   },
-  "8r5lp3": {
-    "code": "8r5lp3",
-    "description": "Execute your own story—this is your prime time. Move with purpose, rise in motion, and take on the world with confidence",
-    "discord": "https://join.noctis.id/",
-    "framework": "QBCore",
-    "gamebuild": "3095",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/8r5lp3/-38252455.png",
-    "ip": "fivem-noctis.noctis.id",
-    "locale": "id-ID",
-    "max_players": 128,
-    "name": "Noctis Indonesia Version 2.0",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/noctisrp/128/5350682_2.png",
-      "id": 16793667,
-      "name": "NoctisRP",
-      "profile": "https://forum.cfx.re/u/NoctisRP"
-    },
-    "package": "au",
-    "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
-    "proxy": [],
-    "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:20Z"
-  },
   "amavek": {
     "banner": {
       "connecting": "https://r2.fivemanage.com/4OlIA4xGJFcA4SLA2hHkh/banner1.png",
