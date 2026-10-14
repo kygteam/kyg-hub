@@ -726,12 +726,12 @@
     "description": "Cerita Roleplayku - Your Roleplay Home with a New Experience 2.0",
     "discord": "https://discord.gg/ceritaroleplayku",
     "framework": "Standalone",
-    "gamebuild": "2612",
+    "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/kr7k7d/577531329.png",
-    "ip": "49.128.187.106:30120",
+    "ip": "49.128.187.98:30120",
     "locale": "id-ID",
     "max_players": 1000,
-    "name": "CR ROLEPLAY 2.0",
+    "name": "CR ROLEPLAY INDONESIA",
     "onesync": "true",
     "owner": {
       "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/cr_roleplay/128/6530882_2.png",
@@ -744,7 +744,7 @@
     "proxy": [],
     "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-07-14T16:22:11Z"
+    "scraped_at": "2026-10-14T12:22:48Z"
   },
   "lke7l5": {
     "banner": {
