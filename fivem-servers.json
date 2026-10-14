@@ -1,10 +1,14 @@
 {
   "237yxy": {
+    "banner": {
+      "connecting": "https://img-cdn.indopride.id/bannerlist2.gif",
+      "detail": "https://img-cdn.indopride.id/bannerlist.gif"
+    },
     "code": "237yxy",
     "description": "Respect & Good Attitude",
     "discord": "indopride.id/discord",
     "framework": "Standalone",
-    "gamebuild": "3258",
+    "gamebuild": "2944",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/237yxy/-824144304.png",
     "ip": "kota.indopride.id:30120",
     "locale": "id-ID",
@@ -18,10 +22,11 @@
       "profile": "https://forum.cfx.re/u/INDOPRIDE"
     },
     "package": "pt",
-    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"netGameEvent\":400}",
+    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"Building\":500,\"CDoorSyncData\":20,\"CMoveObject\":600,\"CNetObjDoor\":20,\"CWeaponComponentInfo\":2048,\"EntityDescPool\":20480,\"FragmentStore\":30000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"fragInstGta\":2000,\"fwDynamicArchetypeComponent\":30000,\"netGameEvent\":400}",
     "proxy": [],
+    "public_feed": "indopride@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-06-06T04:13:55Z"
+    "scraped_at": "2026-10-14T12:15:40Z"
   },
   "3ygjl5y": {
     "banner": {
