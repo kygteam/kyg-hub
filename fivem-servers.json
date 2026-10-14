@@ -550,11 +550,11 @@
     "description": "GAS JOIN KITA HALU BARENG",
     "discord": "https://discord.gg/lastparadise",
     "framework": "ESX Legacy",
-    "gamebuild": "2944",
+    "gamebuild": "2802",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/eql83a/-1133439874.png",
-    "ip": "104.234.180.112:30120",
+    "ip": "31.58.143.133:30120",
     "locale": "id-ID",
-    "max_players": 888,
+    "max_players": 500,
     "name": "LP LAST PARADISE ROLEPLAY INDONESIA",
     "onesync": "true",
     "owner": {
@@ -568,7 +568,7 @@
     "proxy": [],
     "public_feed": "Lastparadise@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-07-14T16:21:56Z"
+    "scraped_at": "2026-10-14T12:21:20Z"
   },
   "g6brx9": {
     "banner": {
