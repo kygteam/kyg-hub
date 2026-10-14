@@ -1103,35 +1103,6 @@
     "pure_level": "0",
     "scraped_at": "2026-09-25T11:13:43Z"
   },
-  "pbp7ga": {
-    "banner": {
-      "connecting": "https://files.catbox.moe/bx0uyn.gif",
-      "detail": "https://files.catbox.moe/bx0uyn.gif"
-    },
-    "code": "pbp7ga",
-    "description": "Race Of The City, Racing With Roleplay, Pursuit Is Number 1, Build Your Dreams Car and Become The King Of Racing",
-    "discord": "discord.gg/MFU6HUMJKF",
-    "framework": "QBCore",
-    "gamebuild": "3258",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/pbp7ga/-2059216944.png",
-    "ip": "15.235.128.191:30120",
-    "locale": "id-ID",
-    "max_players": 64,
-    "name": "Asphalt Street",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/asphaltstreet/128/6176788_2.png",
-      "id": 9569724,
-      "name": "AsphaltStreet",
-      "profile": "https://forum.cfx.re/u/AsphaltStreet"
-    },
-    "package": "ag",
-    "poolsizes": "{\"AnimStore\":20480}",
-    "proxy": [],
-    "public_feed": "asphaltstreetrp@mastodon.social",
-    "pure_level": "0",
-    "scraped_at": "2026-06-13T03:27:18Z"
-  },
   "pga5az5": {
     "banner": {
       "connecting": "https://r2.fivemanage.com/rP5jH4PlkTszsUsFyx4vV/bannerconnecting.gif",
