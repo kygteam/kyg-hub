@@ -1190,6 +1190,36 @@
     "pure_level": "0",
     "scraped_at": "2026-07-14T16:22:27Z"
   },
+  "pgajg55": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/AfIDUpQnjIRzz22V5epcL/banner_connecting_memories.gif",
+      "detail": "https://r2.fivemanage.com/AfIDUpQnjIRzz22V5epcL/banner_detail_memories.gif"
+    },
+    "code": "pgajg55",
+    "description": "KOTA INI TAK SAMA TANPAMU",
+    "discord": "https://discord.gg/6TYcupHbfr",
+    "framework": "QBCore",
+    "gamebuild": "2944",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/pgajg55/940187064.png",
+    "id": "pgajg55",
+    "ip": "103.42.116.72:30120",
+    "locale": "id-ID",
+    "max_players": 500,
+    "name": "MEMORIES ROLEPLAY",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/memoriesrp/128/6453706_2.png",
+      "id": 271823,
+      "name": "MemoriesRP",
+      "profile": "https://forum.cfx.re/u/MemoriesRP"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"FragmentStore\":14000,\"OcclusionPathNode\":5000,\"OcclusionPortalInfo\":750,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-10-14T12:17:54Z"
+  },
   "plj9dy": {
     "banner": {
       "connecting": "https://r2.fivemanage.com/ATYLy6hw5RLNA7qa1Aw2L/banner_orianimated.gif",
