@@ -1649,34 +1649,5 @@
     "public_feed": "",
     "pure_level": "0",
     "scraped_at": "2026-10-03T21:39:20Z"
-  },
-  "zxmea5": {
-    "banner": {
-      "connecting": "https://r2.fivemanage.com/pMA0ekV3sPved8KVE0xBj/Connecting_Server_Banner_2.png",
-      "detail": "https://r2.fivemanage.com/pMA0ekV3sPved8KVE0xBj/ServerProfile_Banner_CKRP_1.png"
-    },
-    "code": "zxmea5",
-    "description": "SETIAP CERITA ADALAH BAGIAN DARI KITA",
-    "discord": "https://discord.gg/ceritakitarp",
-    "framework": "Standalone",
-    "gamebuild": "2802",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/zxmea5/932083279.png",
-    "ip": "49.128.187.42:30120",
-    "locale": "id-ID",
-    "max_players": 555,
-    "name": "CERITA KITA ROLEPLAYY",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/cerita_kita/128/5610711_2.png",
-      "id": 12057603,
-      "name": "CERITA_KITA",
-      "profile": "https://forum.cfx.re/u/CERITA_KITA"
-    },
-    "package": "pt",
-    "poolsizes": "",
-    "proxy": [],
-    "public_feed": "ceritakitaroleplay@mastodon.social",
-    "pure_level": "0",
-    "scraped_at": "2026-06-13T03:27:45Z"
   }
 }
