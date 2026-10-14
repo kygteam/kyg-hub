@@ -271,7 +271,7 @@
     },
     "code": "7y66bb",
     "description": "ADIKBERADIK RP",
-    "discord": "http://ab-kl.com/discord",
+    "discord": "http://discord.gg/adikberadik",
     "framework": "QBCore",
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/7y66bb/-248060622.png",
@@ -289,9 +289,9 @@
     "package": "pt",
     "poolsizes": "",
     "proxy": [],
-    "public_feed": "adikberadik@mastodon.social",
+    "public_feed": "",
     "pure_level": "1",
-    "scraped_at": "2026-07-14T16:21:30Z"
+    "scraped_at": "2026-10-14T12:20:35Z"
   },
   "87k87b": {
     "banner": {
