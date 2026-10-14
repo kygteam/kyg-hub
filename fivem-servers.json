@@ -244,7 +244,7 @@
     "description": "Let It Echo",
     "discord": "",
     "framework": "Standalone",
-    "gamebuild": "3258",
+    "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/7qkjvr/-894235968.png",
     "ip": "104.234.180.154:30120",
     "locale": "en-MY",
@@ -258,11 +258,11 @@
       "profile": "https://forum.cfx.re/u/ECHODISTRICT"
     },
     "package": "pt",
-    "poolsizes": "",
+    "poolsizes": "{\"Building\":500,\"TxdStore\":8000}",
     "proxy": [],
     "public_feed": "",
     "pure_level": "1",
-    "scraped_at": "2026-07-14T16:21:28Z"
+    "scraped_at": "2026-10-14T12:20:28Z"
   },
   "7y66bb": {
     "banner": {
