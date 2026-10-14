@@ -606,28 +606,28 @@
       "detail": "https://imgproxy.cfx.re/1m05-YEmZj8ZnP3WC3XlsjjmPbF6D0jlCNQS-h5f-04/f:webp/q:70/aHR0cHM6Ly9tZWRpYS5kaXNjb3JkYXBwLm5ldC9hdHRhY2htZW50cy8xMzU3MzMzMTkyODI2NDIxNDIwLzE0MTI5MjIwNDcxODAzMDg0OTEvc3RhbmRhcmRfMi5naWY_d2lkdGg9MTAzMiZoZWlnaHQ9NjA.webp"
     },
     "code": "jadyla",
-    "description": "Keep Respect & Good Attitude",
-    "discord": "https://discord.gg/HY6pXqZmc5",
+    "description": "Buat Ceritamu Disini",
+    "discord": "https://discord.gg/jhZbpYZuQh",
     "framework": "QBCore",
-    "gamebuild": "3095",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/jadyla/1941992383.png",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/jadyla/-2089898421.png",
     "ip": "104.234.180.194:30120",
     "locale": "id-ID",
     "max_players": 128,
-    "name": "#INDOZONE ROLEPLAY INDONESIA",
+    "name": "#DRAVOS ROLEPLAY INDONESIA",
     "onesync": "true",
     "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/roleplay_indozone/128/5748376_2.png",
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/dravoscity-roleplay/128/6708132_2.png",
       "id": 17550174,
-      "name": "Roleplay_indozone",
-      "profile": "https://forum.cfx.re/u/Roleplay_indozone"
+      "name": "DravosCity-Roleplay",
+      "profile": "https://forum.cfx.re/u/DravosCity-Roleplay"
     },
     "package": "au",
     "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":8000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":18000}",
     "proxy": [],
     "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-07-14T16:22:02Z"
+    "scraped_at": "2026-10-14T12:21:59Z"
   },
   "javo7a": {
     "banner": {
