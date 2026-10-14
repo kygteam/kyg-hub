@@ -1157,7 +1157,7 @@
     "discord": "https://discord.gg/2naDntKtBE",
     "framework": "ESX Legacy",
     "gamebuild": "2944",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/xj9l5r/-563137854.png",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/xj9l5r/630990353.png",
     "ip": "31.58.143.2:30120",
     "locale": "id-ID",
     "max_players": 128,
@@ -1170,11 +1170,11 @@
       "profile": "https://forum.cfx.re/u/mercyroleplayid"
     },
     "package": "au",
-    "poolsizes": "{\"AnimStore\":20480}",
+    "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
     "proxy": [],
     "public_feed": "mercyroleplay12@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-07-14T16:22:48Z"
+    "scraped_at": "2026-10-14T12:24:57Z"
   },
   "y996ad5": {
     "banner": {
