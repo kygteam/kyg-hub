@@ -148,18 +148,18 @@
   },
   "6gk4e4": {
     "banner": {
-      "connecting": "https://i.ibb.co.com/XZhHX7GN/connecting.gif",
-      "detail": "https://i.ibb.co.com/gZnqLy52/banner.png"
+      "connecting": "https://r2.fivemanage.com/czuZLG3uaQe5BXO15Kkdq/connect.gif",
+      "detail": "https://r2.fivemanage.com/czuZLG3uaQe5BXO15Kkdq/bannerlist.gif"
     },
     "code": "6gk4e4",
     "description": "Dream Big Live Twice",
     "discord": "https://discord.gg/satumimpi",
     "framework": "Standalone",
     "gamebuild": "2612",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/6gk4e4/142087119.png",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/6gk4e4/-2016215473.png",
     "ip": "49.128.187.46:30120",
     "locale": "id-ID",
-    "max_players": 1000,
+    "max_players": 2048,
     "name": "Satu Mimpi",
     "onesync": "true",
     "owner": {
@@ -169,11 +169,11 @@
       "profile": "https://forum.cfx.re/u/SatuMimpi"
     },
     "package": "pt",
-    "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
+    "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
     "public_feed": "axxonz@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-07-14T16:21:20Z"
+    "scraped_at": "2026-10-14T12:19:28Z"
   },
   "6j4z5j": {
     "banner": {
