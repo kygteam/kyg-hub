@@ -366,7 +366,7 @@
     "icon": "https://frontend.cfx-services.net/api/servers/icon/amavek/-1359723291.png",
     "ip": "151.243.226.107:30120",
     "locale": "en-ID",
-    "max_players": 888,
+    "max_players": 444,
     "name": "BEDA ALAM ROLEPLAY",
     "onesync": "true",
     "owner": {
@@ -376,11 +376,11 @@
       "profile": "https://forum.cfx.re/u/adsdas05"
     },
     "package": "pt",
-    "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
+    "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"LightEntity\":1000,\"Object\":2000,\"ScaleformStore\":200,\"TxdStore\":26000,\"netGameEvent\":400}",
     "proxy": [],
-    "public_feed": "BedaAlam@mastodon.social",
+    "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-07-14T16:21:37Z"
+    "scraped_at": "2026-10-14T12:20:42Z"
   },
   "bdx4lql": {
     "banner": {
