@@ -961,19 +961,19 @@
   },
   "qqa4y56": {
     "banner": {
-      "connecting": "https://moxieroleplay.com/banner_connect.gif",
-      "detail": "https://moxieroleplay.com/benner_atas.gif"
+      "connecting": "",
+      "detail": ""
     },
     "code": "qqa4y56",
-    "description": "FEEL THE #MOXIEXPERIENCE",
+    "description": "New Story Same Memory",
     "discord": "",
     "framework": "Qbox Project",
-    "gamebuild": "2944",
+    "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/qqa4y56/-2144017187.png",
     "ip": "49.128.187.74:30120",
-    "locale": "EN-ID",
+    "locale": "ID-ID",
     "max_players": 888,
-    "name": "MOXIE ROLEPLAY",
+    "name": "New Story Same Memory",
     "onesync": "true",
     "owner": {
       "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/moxieroleplay/128/5918861_2.png",
@@ -984,9 +984,9 @@
     "package": "pt",
     "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
     "proxy": [],
-    "public_feed": "mxiexperience@mastodon.social",
+    "public_feed": "moxieroleplay@fivem.social",
     "pure_level": "0",
-    "scraped_at": "2026-07-14T16:22:31Z"
+    "scraped_at": "2026-10-14T12:23:48Z"
   },
   "r35px8": {
     "banner": {
