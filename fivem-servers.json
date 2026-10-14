@@ -482,44 +482,6 @@
     "pure_level": "0",
     "scraped_at": "2026-09-08T23:30:33Z"
   },
-  "da5dzj": {
-    "banner": {
-      "connecting": "",
-      "detail": "https://imgproxy.cfx.re/iRg9Ynl8TljuQiiDMCTpDbOepvxpQ5L__6WQRvOriJA/f:webp/q:70/aHR0cHM6Ly9tZWRpYS5kaXNjb3JkYXBwLm5ldC9hdHRhY2htZW50cy8xNDY5MDI2Mzg4MzgzMTA5NDA0LzE0NzkwOTM2MzgyMzQzNzQyNDgvYmFubmVyXzEucG5nP2V4PTY5YWFjOGNiJmlzPTY5YTk3NzRiJmhtPTc3OTllZWQ0NjliMTk1NmM2OGE5M2FkM2M0Y2M3MmRiNmQ1YThiMjljYjY2NWZhMGUxOWQ0MTliMWJlODRhNzUmPSZmb3JtYXQ9d2VicCZxdWFsaXR5PWxvc3NsZXNzJndpZHRoPTEzMzAmaGVpZ2h0PTE3OQ.webp"
-    },
-    "code": "da5dzj",
-    "description": "Make Your Own Story.",
-    "discord": "https://discord.gg/2txbvrJFK",
-    "framework": "Qbox Project",
-    "gamebuild": "3258",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/da5dzj/-517661413.png",
-    "ip": "103.42.116.171:30120",
-    "locale": "id-ID",
-    "max_players": 64,
-    "name": "Solaris Roleplay",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/solaris_roleplay99/128/4966281_2.png",
-      "id": 18490734,
-      "name": "Solaris_Roleplay99",
-      "profile": "https://forum.cfx.re/u/Solaris_Roleplay99"
-    },
-    "package": "ag",
-    "poolsizes": "{\"CMoveObject\":75,\"FragmentStore\":14000,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":26000}",
-    "proxy": [
-      {
-        "endpoint": "cfx-solarisrp.cdn-fivem.my.id",
-        "label": "International"
-      },
-      {
-        "endpoint": "cfx-solarisrplokal.cdn-fivem.my.id",
-        "label": "Local"
-      }
-    ],
-    "public_feed": "",
-    "pure_level": "0",
-    "scraped_at": "2026-07-14T16:21:50Z"
-  },
   "e66oj6p": {
     "banner": {
       "connecting": "https://cdn.jg-rp.com/banner_ragemp.webp",
