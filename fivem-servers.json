@@ -607,30 +607,6 @@
     "pure_level": "0",
     "scraped_at": "2026-10-03T21:26:57Z"
   },
-  "e6e6lmp": {
-    "code": "e6e6lmp",
-    "description": "OFFICIAL RELEASE GLOBAL",
-    "discord": "",
-    "framework": "Qbox Project",
-    "gamebuild": "3258",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/e6e6lmp/646862296.png",
-    "ip": "151.243.226.39:30120",
-    "locale": "id_ID",
-    "max_players": 128,
-    "name": "SUNDAPRIDE ROLEPLAY",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/sundapriderp/128/4968400_2.png",
-      "id": 18837357,
-      "name": "SUNDAPRIDERP",
-      "profile": "https://forum.cfx.re/u/SUNDAPRIDERP"
-    },
-    "package": "au",
-    "poolsizes": "",
-    "proxy": [],
-    "pure_level": "0",
-    "scraped_at": "2026-05-27T14:24:32Z"
-  },
   "ele3bm": {
     "banner": {
       "connecting": "https://r2.fivemanage.com/cyuKcqPPPVZbYFgiHZjyx/image/BANNER_SHORT.png",
