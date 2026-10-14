@@ -262,6 +262,36 @@
     "pure_level": "0",
     "scraped_at": "2026-07-14T16:21:26Z"
   },
+  "7b9gz3b": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "7b9gz3b",
+    "description": "Kota Kita Bersama",
+    "discord": "https://discord.gg/6T9hBvDV9",
+    "framework": "Qbox Project",
+    "gamebuild": "2802",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/7b9gz3b/-1637736417.png",
+    "id": "7b9gz3b",
+    "ip": "31.58.143.13:30120",
+    "locale": "id-ID",
+    "max_players": 128,
+    "name": "Townshine Roleplay",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/wigunadev/128/4966251_2.png",
+      "id": 17270254,
+      "name": "WigunaDev",
+      "profile": "https://forum.cfx.re/u/WigunaDev"
+    },
+    "package": "au",
+    "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-10-14T12:16:33Z"
+  },
   "7qkjvr": {
     "banner": {
       "connecting": "https://r2.fivemanage.com/2qDyCVpSb60vXuEFZ63PE/1872X298-ED.jpg",
