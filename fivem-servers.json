@@ -1157,7 +1157,6 @@
     "framework": "Qbox Project",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/y996ad5/0.png",
-    "id": "y996ad5",
     "ip": "40.27.47.155:30120",
     "locale": "id-ID",
     "max_players": 248,
@@ -1174,7 +1173,7 @@
     "proxy": [],
     "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-09-07T11:02:26Z"
+    "scraped_at": "2026-10-14T12:25:49Z"
   },
   "y999r8y": {
     "banner": {
