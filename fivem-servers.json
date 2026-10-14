@@ -658,35 +658,6 @@
     "pure_level": "0",
     "scraped_at": "2026-10-14T12:22:07Z"
   },
-  "jygd5m": {
-    "banner": {
-      "connecting": "https://cdn.stateofindonesia.id/pz_logo/connectting.gif",
-      "detail": "https://cdn.stateofindonesia.id/pz_logo/banner.gif"
-    },
-    "code": "jygd5m",
-    "description": "From the ashes of Ground Zero, a new world rises. Will you rebuild civilization or rot with the rest? Your story of survival starts here.",
-    "discord": "https://discord.gg/HAQgFbv2wD",
-    "framework": "Qbox Project",
-    "gamebuild": "2944",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/jygd5m/0.png",
-    "ip": "210.247.249.98:30120",
-    "locale": "en-ID",
-    "max_players": 501,
-    "name": "[PZ] PROJECT ZERO",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/cfx_stateofindonesia/128/4967796_2.png",
-      "id": 17852766,
-      "name": "cfx_stateofindonesia",
-      "profile": "https://forum.cfx.re/u/cfx_stateofindonesia"
-    },
-    "package": "pt",
-    "poolsizes": "{\"AnimStore\":20480,\"AttachmentExtension\":430,\"CMoveObject\":600,\"EntityDescPool\":20480,\"FragmentStore\":14000,\"InteriorProxy\":450,\"LightEntity\":1000,\"Object\":2000,\"ObjectIntelligence\":512,\"OcclusionInteriorInfo\":20,\"OcclusionPathNode\":5000,\"OcclusionPortalEntity\":750,\"OcclusionPortalInfo\":750,\"PortalInst\":225,\"ScaleformStore\":200,\"StaticBounds\":5000,\"TxdStore\":50000,\"netGameEvent\":400}",
-    "proxy": [],
-    "public_feed": "stateofindonesia@mastodon.social",
-    "pure_level": "0",
-    "scraped_at": "2026-07-14T16:22:07Z"
-  },
   "kblaja": {
     "banner": {
       "connecting": "https://i.postimg.cc/cCRWDGdt/P-O-R-T-B-A-E-K-2.png",
