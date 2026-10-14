@@ -698,7 +698,7 @@
     "discord": "https://discord.gg/portbaek",
     "framework": "Standalone",
     "gamebuild": "3258",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/kblaja/1784929334.png",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/kblaja/-1716358736.png",
     "ip": "31.58.143.16:30120",
     "locale": "en-MY",
     "max_players": 500,
@@ -711,11 +711,11 @@
       "profile": "https://forum.cfx.re/u/pbnetwork"
     },
     "package": "pt",
-    "poolsizes": "",
+    "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
     "proxy": [],
     "public_feed": "portbaek@mastodon.social",
     "pure_level": "1",
-    "scraped_at": "2026-07-14T16:22:09Z"
+    "scraped_at": "2026-10-14T12:22:41Z"
   },
   "kr7k7d": {
     "banner": {
