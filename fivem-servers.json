@@ -57,6 +57,36 @@
     "pure_level": "0",
     "scraped_at": "2026-10-14T12:19:09Z"
   },
+  "4ggj87q": {
+    "banner": {
+      "connecting": "",
+      "detail": "https://r2.fivemanage.com/r2k8qbzWVeuARASB7hmSY/retobanner.gif"
+    },
+    "code": "4ggj87q",
+    "description": "Brand New Day",
+    "discord": "",
+    "framework": "Qbox Project",
+    "gamebuild": "2802",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/4ggj87q/567916994.png",
+    "id": "4ggj87q",
+    "ip": "31.58.143.69:30110",
+    "locale": "id-ID",
+    "max_players": 125,
+    "name": "RETORIKA ROLEPLAY INDONESIA",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/retorika/128/5380494_2.png",
+      "id": 14409131,
+      "name": "Retorika",
+      "profile": "https://forum.cfx.re/u/Retorika"
+    },
+    "package": "au",
+    "poolsizes": "",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-10-14T12:19:57Z"
+  },
   "4ggjqg9": {
     "banner": {
       "connecting": "https://img.narasiroleplay.id/img/CONNECTING_SERVER.gif",
