@@ -98,7 +98,7 @@
     "framework": "ESX Legacy",
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/55kd96/540036569.png",
-    "ip": "play.kampoeng.vhicloud.com",
+    "ip": "104.234.180.42:30120",
     "locale": "id-ID",
     "max_players": 280,
     "name": "Kampoeng Roleplay Indonesia",
@@ -114,7 +114,7 @@
     "proxy": [],
     "public_feed": "kampoengroleplay@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-07-14T16:21:17Z"
+    "scraped_at": "2026-10-14T12:19:21Z"
   },
   "5oovv4r": {
     "banner": {
