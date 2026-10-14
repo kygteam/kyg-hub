@@ -146,35 +146,6 @@
     "pure_level": "0",
     "scraped_at": "2026-08-06T05:00:06Z"
   },
-  "5oyegr7": {
-    "banner": {
-      "connecting": "",
-      "detail": ""
-    },
-    "code": "5oyegr7",
-    "description": "Project Shine",
-    "discord": "discord.gg/F8xHWsb4ZF",
-    "framework": "Qbox Project",
-    "gamebuild": "3095",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/5oyegr7/1579453755.png",
-    "ip": "104.234.180.87:30120",
-    "locale": "id-ID",
-    "max_players": 500,
-    "name": "Townshine Roleplay",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/devimpian_roleplay/128/4968781_2.png",
-      "id": 17796763,
-      "name": "devimpian_roleplay",
-      "profile": "https://forum.cfx.re/u/devimpian_roleplay"
-    },
-    "package": "pt",
-    "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
-    "proxy": [],
-    "public_feed": "",
-    "pure_level": "0",
-    "scraped_at": "2026-07-14T16:21:18Z"
-  },
   "6gk4e4": {
     "banner": {
       "connecting": "https://i.ibb.co.com/XZhHX7GN/connecting.gif",
