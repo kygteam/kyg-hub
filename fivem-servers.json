@@ -34,14 +34,14 @@
       "detail": "https://assets.asestaterp.com/assets/banner_detail.gif"
     },
     "code": "3ygjl5y",
-    "description": "POWERED BY ASE GROUP COMPANY",
+    "description": "POWERED BY ASE GROUP COMPANY, City with Realistic Roleplay.",
     "discord": "https://discord.gg/aserp",
     "framework": "Qbox Project",
     "gamebuild": "3095",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/3ygjl5y/-1780357544.png",
-    "ip": "play.asestaterp.com",
+    "ip": "103.42.116.122:30120",
     "locale": "id-ID",
-    "max_players": 2000,
+    "max_players": 1024,
     "name": "ASE STATE ROLEPLAY",
     "onesync": "true",
     "owner": {
@@ -55,7 +55,7 @@
     "proxy": [],
     "public_feed": "asestaterp@fivem.social",
     "pure_level": "0",
-    "scraped_at": "2026-07-14T16:21:15Z"
+    "scraped_at": "2026-10-14T12:19:09Z"
   },
   "4ggjqg9": {
     "banner": {
