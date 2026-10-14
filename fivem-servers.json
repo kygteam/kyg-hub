@@ -1370,35 +1370,6 @@
     "pure_level": "0",
     "scraped_at": "2026-07-14T16:22:42Z"
   },
-  "vagdok": {
-    "banner": {
-      "connecting": "https://ninky.starstrix.my.id/assets/strix/kisahbaru-banner.png",
-      "detail": "https://ninky.starstrix.my.id/assets/strix/kisahbaru-banner.png"
-    },
-    "code": "vagdok",
-    "description": "OPEN BADSIDE AND WHITELIST",
-    "discord": "discord.gg/DZKa8vRDk",
-    "framework": "ESX Legacy",
-    "gamebuild": "2802",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/vagdok/-137382032.png",
-    "ip": "103.42.116.156:31968",
-    "locale": "id-ID",
-    "max_players": 128,
-    "name": "KISAH BARU ROLEPLAY",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/kod_bryan/128/4130056_2.png",
-      "id": 6948589,
-      "name": "Kod_Bryan",
-      "profile": "https://forum.cfx.re/u/Kod_Bryan"
-    },
-    "package": "au",
-    "poolsizes": "{\"AnimStore\":10000}",
-    "proxy": [],
-    "public_feed": "KISAHBARURP@mastodon.social",
-    "pure_level": "0",
-    "scraped_at": "2026-06-13T03:27:32Z"
-  },
   "vgaqm5": {
     "banner": {
       "connecting": "https://r2.fivemanage.com/7G09CHGGrHzXExaewC5Z6/foto_loading_screen_dan_logo/GP_-_Loading_Screen.gif",
