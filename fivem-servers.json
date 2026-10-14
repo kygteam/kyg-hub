@@ -658,6 +658,36 @@
     "pure_level": "0",
     "scraped_at": "2026-10-14T12:22:07Z"
   },
+  "jjl9pk": {
+    "banner": {
+      "connecting": "",
+      "detail": ""
+    },
+    "code": "jjl9pk",
+    "description": "^7Civilisation has fallen. Scavenge, craft, build, fight and survive against the infected and anyone willing to take what you've earned. ^2JUST OPENED 07/10/2026",
+    "discord": "https://discord.gg/projectz-uk",
+    "framework": "Qbox Project",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/jjl9pk/-1192810002.png",
+    "id": "jjl9pk",
+    "ip": "45.8.187.3:30120",
+    "locale": "en-UK",
+    "max_players": 64,
+    "name": "Project Zero",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/project-zero/128/6901785_2.png",
+      "id": 5672424,
+      "name": "Project-Zero",
+      "profile": "https://forum.cfx.re/u/Project-Zero"
+    },
+    "package": "ag",
+    "poolsizes": "",
+    "proxy": [],
+    "public_feed": "th3demonfox@fivem.social",
+    "pure_level": "0",
+    "scraped_at": "2026-10-14T12:22:35Z"
+  },
   "kblaja": {
     "banner": {
       "connecting": "https://i.postimg.cc/cCRWDGdt/P-O-R-T-B-A-E-K-2.png",
