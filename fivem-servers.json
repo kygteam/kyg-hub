@@ -906,14 +906,14 @@
       "detail": "https://r2.fivemanage.com/rP5jH4PlkTszsUsFyx4vV/bannerdetail.gif"
     },
     "code": "pga5az5",
-    "description": "Beta Opening! Come Join Now!",
+    "description": "Phase 1 Lokality!",
     "discord": "https://discord.gg/lokalitymalaysia",
     "framework": "Qbox Project",
     "gamebuild": "3258",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/pga5az5/1586838435.png",
     "ip": "151.243.226.75:30120",
     "locale": "en-MY",
-    "max_players": 64,
+    "max_players": 54,
     "name": "Lokality Malaysia",
     "onesync": "true",
     "owner": {
@@ -927,7 +927,7 @@
     "proxy": [],
     "public_feed": "lokality@mastodon.social",
     "pure_level": "0",
-    "scraped_at": "2026-07-14T16:22:27Z"
+    "scraped_at": "2026-10-14T12:23:25Z"
   },
   "pgajg55": {
     "banner": {
