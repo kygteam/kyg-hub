@@ -600,44 +600,6 @@
     "pure_level": "0",
     "scraped_at": "2026-10-14T12:21:07Z"
   },
-  "gadxybq": {
-    "banner": {
-      "connecting": "",
-      "detail": ""
-    },
-    "code": "gadxybq",
-    "description": "Indonesia Roleplay | Custom Vehicles | Active Staff",
-    "discord": "https://discord.gg/sH6enTeRFT",
-    "framework": "Qbox Project",
-    "gamebuild": "3258",
-    "icon": "https://frontend.cfx-services.net/api/servers/icon/gadxybq/936653089.png",
-    "ip": "151.247.74.67:30120",
-    "locale": "en-id",
-    "max_players": 128,
-    "name": "IM ROLEPLAY INDONESIA",
-    "onesync": "true",
-    "owner": {
-      "avatar": "https://avatars.discourse.org/v4/letter/i/7933a0/128.png",
-      "id": 1376490,
-      "name": "iHan270796",
-      "profile": "https://forum.cfx.re/u/iHan270796"
-    },
-    "package": "au",
-    "poolsizes": "",
-    "proxy": [
-      {
-        "endpoint": "im.mayernetwork.net",
-        "label": "Local"
-      },
-      {
-        "endpoint": "im-global.mayernetwork.net",
-        "label": "Global"
-      }
-    ],
-    "public_feed": "",
-    "pure_level": "0",
-    "scraped_at": "2026-07-14T16:22:00Z"
-  },
   "jadyla": {
     "banner": {
       "connecting": "https://imgproxy.cfx.re/CIbTJhC9i3Qi9fdbG3dUv-V2QIgqRVRTBkfQYmJIJKg/f:webp/q:70/aHR0cHM6Ly9tZWRpYS5kaXNjb3JkYXBwLm5ldC9hdHRhY2htZW50cy8xMzU3MzMzMTkyODI2NDIxNDIwLzE0MTI5MjIxNzgxNTU4NDM2NzQvc3RhbmRhcmRfMS5naWY.webp",
