@@ -611,12 +611,11 @@
     "framework": "ESX Legacy",
     "gamebuild": "2802",
     "icon": "https://frontend.cfx-services.net/api/servers/icon/j44y59k/0.png",
-    "id": "j44y59k",
     "ip": "15.235.128.181:30120",
     "locale": "id-ID",
-    "max_players": 32,
+    "max_players": 120,
     "name": "REBORN ROLEPLAY.ID",
-    "onesync": "false",
+    "onesync": "true",
     "owner": {
       "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/rebornroleplay.id/128/6988459_2.png",
       "id": 17875263,
@@ -637,7 +636,7 @@
     ],
     "public_feed": "",
     "pure_level": "0",
-    "scraped_at": "2026-10-24T07:17:47Z"
+    "scraped_at": "2026-10-24T07:18:12Z"
   },
   "jadyla": {
     "banner": {
