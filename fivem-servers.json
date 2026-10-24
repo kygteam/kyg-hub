@@ -600,6 +600,45 @@
     "pure_level": "0",
     "scraped_at": "2026-10-14T12:21:07Z"
   },
+  "j44y59k": {
+    "banner": {
+      "connecting": "",
+      "detail": "https://cfx-server-metadata.cfx-services.net/images/4cab3f5a-8140-40b6-8417-d8f93a87fb09"
+    },
+    "code": "j44y59k",
+    "description": "Every Life Has A Story",
+    "discord": "https://discord.gg/N7N2KtQwEC",
+    "framework": "ESX Legacy",
+    "gamebuild": "2802",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/j44y59k/0.png",
+    "id": "j44y59k",
+    "ip": "15.235.128.181:30120",
+    "locale": "id-ID",
+    "max_players": 32,
+    "name": "REBORN ROLEPLAY.ID",
+    "onesync": "false",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/rebornroleplay.id/128/6988459_2.png",
+      "id": 17875263,
+      "name": "rebornroleplay.id",
+      "profile": "https://forum.cfx.re/u/rebornroleplay.id"
+    },
+    "package": "au",
+    "poolsizes": "{\"AnimStore\":20480,\"CMoveObject\":75,\"FragmentStore\":14000,\"TxdStore\":26000,\"fragInstGta\":2000}",
+    "proxy": [
+      {
+        "endpoint": "reborn.dopminer.com",
+        "label": "Main"
+      },
+      {
+        "endpoint": "reborn-portal.dopminer.com",
+        "label": "Portal"
+      }
+    ],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-10-24T07:17:47Z"
+  },
   "jadyla": {
     "banner": {
       "connecting": "https://imgproxy.cfx.re/CIbTJhC9i3Qi9fdbG3dUv-V2QIgqRVRTBkfQYmJIJKg/f:webp/q:70/aHR0cHM6Ly9tZWRpYS5kaXNjb3JkYXBwLm5ldC9hdHRhY2htZW50cy8xMzU3MzMzMTkyODI2NDIxNDIwLzE0MTI5MjIxNzgxNTU4NDM2NzQvc3RhbmRhcmRfMS5naWY.webp",
