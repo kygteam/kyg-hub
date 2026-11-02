@@ -482,6 +482,36 @@
     "pure_level": "0",
     "scraped_at": "2026-09-08T23:30:33Z"
   },
+  "e66mr7a": {
+    "banner": {
+      "connecting": "https://i.postimg.cc/50tm3bqK/Chat-GPT-Image-Sep-25-2026-07-44-37-AM.png",
+      "detail": "https://cfx-server-metadata.cfx-services.net/images/4edae32a-4004-4cb3-b4b1-4bac689041a0"
+    },
+    "code": "e66mr7a",
+    "description": "PVP, MELEE TRAINING, TDM, ZOMBIE, GANG FIGHT",
+    "discord": "",
+    "framework": "Standalone",
+    "gamebuild": "3258",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/e66mr7a/0.png",
+    "id": "e66mr7a",
+    "ip": "104.234.180.234:30120",
+    "locale": "en-MY",
+    "max_players": 250,
+    "name": "KERIS PVP | S 3",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/kerispvpx/128/6868747_2.png",
+      "id": 19783954,
+      "name": "KERISPVPX",
+      "profile": "https://forum.cfx.re/u/KERISPVPX"
+    },
+    "package": "pt",
+    "poolsizes": "{\"AnimStore\":20480,\"TxdStore\":26000}",
+    "proxy": [],
+    "public_feed": "",
+    "pure_level": "0",
+    "scraped_at": "2026-11-02T19:05:12Z"
+  },
   "e66oj6p": {
     "banner": {
       "connecting": "https://cdn.jg-rp.com/banner_ragemp.webp",
