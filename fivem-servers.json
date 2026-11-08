@@ -353,6 +353,36 @@
     "pure_level": "0",
     "scraped_at": "2026-10-03T12:41:24Z"
   },
+  "a44zzxe": {
+    "banner": {
+      "connecting": "https://r2.fivemanage.com/MdbCG4X04QkpKAmaKAqQZ/Assets/GIFPREMIUMCOMPRESS.gif",
+      "detail": "https://cfx-server-metadata.cfx-services.net/images/f372bdde-c460-4f20-a924-cebf78711015"
+    },
+    "code": "a44zzxe",
+    "description": "KITA BUKAN CUMA MAIN, KITA BIKIN CERITA.",
+    "discord": "",
+    "framework": "Qbox Project",
+    "gamebuild": "2612",
+    "icon": "https://frontend.cfx-services.net/api/servers/icon/a44zzxe/0.png",
+    "id": "a44zzxe",
+    "ip": "alternate.duniakitarp.id",
+    "locale": "id-ID",
+    "max_players": 312,
+    "name": "DUNIA KITA",
+    "onesync": "true",
+    "owner": {
+      "avatar": "https://forum.cfx.re/user_avatar/forum.cfx.re/duniakita/128/6995956_2.png",
+      "id": 8046649,
+      "name": "duniakita",
+      "profile": "https://forum.cfx.re/u/duniakita"
+    },
+    "package": "pt",
+    "poolsizes": "",
+    "proxy": [],
+    "public_feed": "duniakitarp@fivem.social",
+    "pure_level": "0",
+    "scraped_at": "2026-11-08T14:41:12Z"
+  },
   "amavek": {
     "banner": {
       "connecting": "https://r2.fivemanage.com/4OlIA4xGJFcA4SLA2hHkh/banner1.png",
