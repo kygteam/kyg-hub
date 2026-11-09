@@ -259,10 +259,15 @@
     },
     "package": "pt",
     "poolsizes": "{\"Building\":500,\"TxdStore\":8000}",
-    "proxy": [],
+    "proxy": [
+      {
+        "endpoint": "game.edrp.cc",
+        "label": "Gate 1"
+      }
+    ],
     "public_feed": "",
     "pure_level": "1",
-    "scraped_at": "2026-10-14T12:20:28Z"
+    "scraped_at": "2026-11-09T14:54:00Z"
   },
   "7y66bb": {
     "banner": {
